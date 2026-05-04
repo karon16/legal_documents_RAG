@@ -1,0 +1,3088 @@
+---
+title: "Convention des Nations Unies contre la corruption"
+source_url: "https://www.leganet.cd/Legislation/Conventions.int/Convention.NU.corruption.pdf"
+domain: "droit_penal"
+doc_type: "document"
+date_enacted: null
+was_ocr: false
+quality: "good"
+word_count: 19198
+scraped_at: "2026-04-29T03:13:22.451465+00:00"
+encoding_original: "iso-8859-1"
+---
+
+Convention des Nations Unies contre la corruption
+
+Préambule
+
+Les États Parties à la présente Convention,
+Préoccupés par la gravité des problèmes que pose la
+corruption et de la menace qu’elle constitue pour la stabilité et la
+sécurité des sociétés, en sapant les institutions et les valeurs
+démocratiques, les valeurs éthiques et la justice et en
+compromettant le développement durable et l’état de droit,
+Préoccupés également par les liens qui existent entre la
+corruption et d’autres formes de criminalité, en particulier la
+criminalité organisée et la criminalité économique, y compris le
+blanchiment d’argent,
+Préoccupés en outre par les affaires de corruption qui portent
+sur des quantités considérables d’avoirs, pouvant représenter une
+part substantielle des ressources des États, et qui menacent la
+stabilité politique et le développement durable de ces États,
+Convaincus que la corruption n’est plus une affaire locale
+mais un phénomène transnational qui frappe toutes les sociétés et
+toutes les économies, ce qui rend la coopération internationale
+essentielle pour la prévenir et la juguler,
+
+Convaincus également qu’une approche globale et
+multidisciplinaire est nécessaire pour prévenir et combattre la
+corruption efficacement,
+Convaincus en outre que l’offre d’assistance technique peut
+contribuer de manière importante à rendre les États mieux à
+même, y compris par le renforcement des capacités et des
+institutions, de prévenir et de combattre la corruption
+efficacement,
+Convaincus du fait que l’acquisition illicite de richesses
+personnelles peut être particulièrement préjudiciable aux
+institutions démocratiques, aux économies nationales et à l’état de
+droit,
+Résolus à prévenir, détecter et décourager de façon plus
+efficace les transferts internationaux d’avoirs illicitement acquis et
+à renforcer la coopération internationale dans le recouvrement
+d’avoirs,
+Reconnaissant les principes fondamentaux du respect des
+garanties prévues par la loi dans les procédures pénales et dans les
+procédures civiles ou administratives concernant la
+reconnaissance de droits de propriété,
+Ayant à l’esprit qu’il incombe à tous les États de prévenir et
+d’éradiquer la corruption et que ceux-ci doivent coopérer entre
+eux, avec le soutien et la participation de personnes et de groupes
+n’appartenant pas au secteur public, comme la société civile, les
+organisations non gouvernementales et les communautés de
+personnes, pour que leurs efforts dans ce domaine soient efficaces,
+Ayant également à l’esprit les principes de bonne gestion des
+affaires publiques et des biens publics, d’équité, de responsabilité
+et d’égalité devant la loi et la nécessité de sauvegarder l’intégrité
+et de favoriser une culture de refus de la corruption,
+
+
+
+
+
+
+<!-- Page 1 -->
+
+
+
+
+
+
+
+Se félicitant des travaux menés par la Commission pour la
+prévention du crime et la justice pénale et l’Office des Nations
+Unies contre la drogue et le crime afin de prévenir et combattre la
+corruption,
+Rappelant les travaux menés dans ce domaine par d’autres
+organisations internationales et régionales, notamment les
+activités du Conseil de coopération douanière (également appelé
+Organisation mondiale des douanes), du Conseil de l’Europe, de la
+Ligue des États arabes, de l’Organisation de coopération et de
+développement économiques, de l’Organisation des États
+américains, de l’Union africaine et de l’Union européenne,
+Prenant acte avec satisfaction des instruments multilatéraux
+visant à prévenir et combattre la corruption, tels que, entre autres,
+la Convention interaméricaine contre la corruption, adoptée par
+l’Organisation des États américains le 29 mars 19961, la
+Convention relative à la lutte contre la corruption impliquant des
+fonctionnaires des communautés européennes ou des
+fonctionnaires des États membres de l’Union européenne, adoptée
+par le Conseil de l’Union européenne le 26 mai 19972, la
+Convention sur la lutte contre la corruption d’agents publics
+étrangers dans les transactions commerciales internationales,
+adoptée par l’Organisation de coopération et de développement
+économiques le 21 novembre 19973, la Convention pénale sur la
+corruption, adoptée par le Comité des ministres du Conseil de
+l’Europe le 27 janvier 19994, la Convention civile sur la
+corruption, adoptée par le Comité des ministres du Conseil de
+l’Europe le 4 novembre 19995, et la Convention sur la prévention
+et la lutte contre la corruption, adoptée par les chefs d’État et de
+gouvernement de l’Union africaine le 12 juillet 2003,
+Se félicitant de l’entrée en vigueur, le 29 septembre 2003, de
+la Convention des Nations Unies contre la criminalité
+transnationale organisée6,
+Sont convenus de ce qui suit:
+Chapitre premier. Dispositions générales
+
+Article premier
+Objet
+
+La présente Convention a pour objet:
+a) De promouvoir et renforcer les mesures visant à
+prévenir et combattre la corruption de manière plus efficace;
+b) De promouvoir, faciliter et appuyer la coopération
+internationale et l’assistance technique aux fins de la prévention
+de la corruption et de la lutte contre celle-ci, y compris le
+recouvrement d’avoirs;
+
+
+
+1 Voir E/1996/99.
+2 Journal officiel des Communautés européennes, C 195, 25 juin 1997.
+3 Voir Corruption and Integrity Improvement Initiatives in Developing
+Countries (publication des Nations Unies, numéro de vente: E.98.III.B.18).
+4 Conseil de l’Europe, Série des Traités européens, nº 173.
+5 Ibid., n° 174.
+6 Résolution 55/25 de l’Assemblée générale, annexe I.
+
+
+
+
+<!-- Page 2 -->
+
+
+
+
+
+
+
+c) De promouvoir l’intégrité, la responsabilité et la bonne
+gestion des affaires publiques et des biens publics.
+Article 2
+Terminologie
+
+Aux fins de la présente Convention:
+a) On entend par “agent public”: i) toute personne qui
+détient un mandat législatif, exécutif, administratif ou judiciaire
+d’un État Partie, qu’elle ait été nommée ou élue, à titre permanent
+ou temporaire, qu’elle soit rémunérée ou non rémunérée, et quel
+que soit son niveau hiérarchique; ii) toute autre personne qui
+exerce une fonction publique, y compris pour un organisme public
+ou une entreprise publique, ou qui fournit un service public, tels
+que ces termes sont définis dans le droit interne de l’État Partie et
+appliqués dans la branche pertinente du droit de cet État; iii) toute
+autre personne définie comme “agent public” dans le droit interne
+d’un État Partie. Toutefois, aux fins de certaines mesures
+spécifiques prévues au chapitre II de la présente Convention, on
+peut entendre par “agent public” toute personne qui exerce une
+fonction publique ou qui fournit un service public tels que ces
+termes sont définis dans le droit interne de l’État Partie et
+appliqués dans la branche pertinente du droit de cet État;
+b) On entend par “agent public étranger” toute personne
+qui détient un mandat législatif, exécutif, administratif ou
+judiciaire d’un pays étranger, qu’elle ait été nommée ou élue; et
+toute personne qui exerce une fonction publique pour un pays
+étranger, y compris pour un organisme public ou une entreprise
+publique;
+c) On entend par “fonctionnaire d’une organisation
+internationale publique” un fonctionnaire international ou toute
+personne autorisée par une telle organisation à agir en son nom;
+d) On entend par “biens” tous les types d’avoirs, corporels
+ou incorporels, meubles ou immeubles, tangibles ou intangibles,
+ainsi que les actes juridiques ou documents attestant la propriété
+de ces avoirs ou les droits y relatifs;
+e) On entend par “produit du crime” tout bien provenant
+directement ou indirectement de la commission d’une infraction
+ou obtenu directement ou indirectement en la commettant;
+f) On entend par “gel” ou “saisie” l’interdiction
+temporaire du transfert, de la conversion, de la disposition ou du
+mouvement de biens, ou le fait d’assumer temporairement la garde
+ou le contrôle de biens sur décision d’un tribunal ou d’une autre
+autorité compétente;
+g) On entend par “confiscation” la dépossession
+permanente de biens sur décision d’un tribunal ou d’une autre
+autorité compétente;
+h) On entend par “infraction principale” toute infraction
+par suite de laquelle est généré un produit qui est susceptible de
+devenir l’objet d’une infraction définie à l’article 23 de la présente
+Convention;
+i) On entend par “livraison surveillée” la méthode
+consistant à permettre la sortie du territoire, le passage par le
+territoire, ou l’entrée sur le territoire d’un ou de plusieurs États,
+
+
+
+
+
+
+<!-- Page 3 -->
+
+
+
+
+
+
+
+d’expéditions illicites ou suspectées de l’être, au su et sous le
+contrôle des autorités compétentes de ces États, en vue d’enquêter
+sur une infraction et d’identifier les personnes impliquées dans sa
+commission.
+Article 3
+Champ d’application
+
+1. La présente Convention s’applique, conformément à
+ses dispositions, à la prévention, aux enquêtes et aux poursuites
+concernant la corruption ainsi qu’au gel, à la saisie, à la
+confiscation et à la restitution du produit des infractions établies
+conformément à la présente Convention.
+2. Aux fins de l’application de la présente Convention, il
+n’est pas nécessaire, sauf si celle-ci en dispose autrement, que les
+infractions qui y sont visées causent un dommage ou un préjudice
+patrimonial à l’État.
+Article 4
+Protection de la souveraineté
+
+1. Les États Parties exécutent leurs obligations au titre de
+la présente Convention d’une manière compatible avec les
+principes de l’égalité souveraine et de l’intégrité territoriale des
+États et avec celui de la non-intervention dans les affaires
+intérieures d’autres États.
+2. Aucune disposition de la présente Convention
+n’habilite un État Partie à exercer sur le territoire d’un autre État
+une compétence et des fonctions qui sont exclusivement réservées
+aux autorités de cet autre État par son droit interne.
+
+Chapitre II. Mesures préventives
+
+Article 5
+Politiques et pratiques de prévention de la corruption
+1. Chaque État Partie élabore et applique ou poursuit,
+conformément aux principes fondamentaux de son système
+juridique, des politiques de prévention de la corruption efficaces
+et coordonnées qui favorisent la participation de la société et
+reflètent les principes d’état de droit, de bonne gestion des affaires
+publiques et des biens publics, d’intégrité, de transparence et de
+responsabilité.
+2. Chaque État Partie s’efforce de mettre en place et de
+promouvoir des pratiques efficaces visant à prévenir la corruption.
+3. Chaque État Partie s’efforce d’évaluer périodiquement
+les instruments juridiques et mesures administratives pertinents en
+vue de déterminer s’ils sont adéquats pour prévenir et combattre la
+corruption.
+4. Les États Parties collaborent, selon qu’il convient et
+conformément aux principes fondamentaux de leur système
+juridique, entre eux et avec les organisations régionales et
+internationales compétentes pour la promotion et la mise au point
+des mesures visées dans le présent article. Dans le cadre de cette
+collaboration, ils peuvent participer à des programmes et projets
+internationaux visant à prévenir la corruption.
+
+
+
+
+
+
+<!-- Page 4 -->
+
+
+
+
+
+
+
+Article 6
+Organe ou organes de prévention de la corruption
+1. Chaque État Partie fait en sorte, conformément aux
+principes fondamentaux de son système juridique, qu’existent un
+ou plusieurs organes, selon qu’il convient, chargés de prévenir la
+corruption par des moyens tels que:
+
+a) L’application des politiques visées à l’article 5 de la
+présente Convention et, s’il y a lieu, la supervision et la
+coordination de cette application;
+b) L’accroissement et la diffusion des connaissances
+concernant la prévention de la corruption.
+2. Chaque État Partie accorde à l’organe ou aux organes
+visés au paragraphe 1 du présent article l’indépendance
+nécessaire, conformément aux principes fondamentaux de son
+système juridique, pour leur permettre d’exercer efficacement
+leurs fonctions à l’abri de toute influence indue. Les ressources
+matérielles et les personnels spécialisés nécessaires, ainsi que la
+formation dont ces personnels peuvent avoir besoin pour exercer
+leurs fonctions, devraient leur être fournis.
+3. Chaque État Partie communique au Secrétaire général
+de l’Organisation des Nations Unies le nom et l’adresse de
+l’autorité ou des autorités susceptibles d’aider d’autres États
+Parties à mettre au point et à appliquer des mesures spécifiques de
+prévention de la corruption.
+
+Article 7
+Secteur public
+1. Chaque État Partie s’efforce, s’il y a lieu et
+conformément aux principes fondamentaux de son système
+juridique, d’adopter, de maintenir et de renforcer des systèmes de
+recrutement, d’embauchage, de fidélisation, de promotion et de
+retraite des fonctionnaires et, s’il y a lieu, des autres agents
+publics non élus, qui:
+a) Reposent sur les principes d’efficacité et de
+transparence et sur des critères objectifs tels que le mérite, l’équité
+et l’aptitude;
+b) Comportent des procédures appropriées pour
+sélectionner et former les personnes appelées à occuper des postes
+publics considérés comme particulièrement exposés à la
+corruption et, s’il y a lieu, pour assurer une rotation sur ces postes;
+c) Favorisent une rémunération adéquate et des barèmes
+de traitement équitables, compte tenu du niveau de développement
+économique de l’État Partie;
+d) Favorisent l’offre de programmes d’éducation et de
+formation qui leur permettent de s’acquitter de leurs fonctions de
+manière correcte, honorable et adéquate et les fassent bénéficier
+d’une formation spécialisée appropriée qui les sensibilise
+davantage aux risques de corruption inhérents à l’exercice de leurs
+fonctions. Ces programmes peuvent faire référence aux codes ou
+normes de conduite applicables.
+2. Chaque État Partie envisage aussi d’adopter des
+mesures législatives et administratives appropriées, compatibles
+
+
+
+
+
+
+<!-- Page 5 -->
+
+
+
+
+
+
+
+avec les objectifs de la présente Convention et conformes aux
+principes fondamentaux de son droit interne, afin d’arrêter des
+critères pour la candidature et l’élection à un mandat public.
+3. Chaque État Partie envisage également d’adopter des
+mesures législatives et administratives appropriées, compatibles
+avec les objectifs de la présente Convention et conformes aux
+principes fondamentaux de son droit interne, afin d’accroître la
+transparence du financement des candidatures à un mandat public
+électif et, le cas échéant, du financement des partis politiques.
+4. Chaque État Partie s’efforce, conformément aux
+principes fondamentaux de son droit interne, d’adopter, de
+maintenir et de renforcer des systèmes qui favorisent la
+transparence et préviennent les conflits d’intérêts.
+
+Article 8
+Codes de conduite des agents publics
+1. Afin de lutter contre la corruption, chaque État Partie
+encourage notamment l’intégrité, l’honnêteté et la responsabilité
+chez ses agents publics, conformément aux principes
+fondamentaux de son système juridique.
+2. En particulier, chaque État Partie s’efforce d’appliquer,
+dans le cadre de ses propres systèmes institutionnel et juridique,
+des codes ou des normes de conduite pour l’exercice correct,
+honorable et adéquat des fonctions publiques.
+3. Aux fins de l’application des dispositions du présent
+article, chaque État Partie prend acte, s’il y a lieu et conformément
+aux principes fondamentaux de son système juridique, des
+initiatives pertinentes d’organisations régionales, interrégionales
+et multilatérales, telles que le Code international de conduite des
+agents de la fonction publique annexé à la résolution 51/59 de
+l’Assemblée générale, en date du 12 décembre 1996.
+4. Chaque État Partie envisage aussi, conformément aux
+principes fondamentaux de son droit interne, de mettre en place
+des mesures et des systèmes de nature à faciliter le signalement
+par les agents publics aux autorités compétentes des actes de
+corruption dont ils ont connaissance dans l’exercice de leurs
+fonctions.
+5. Chaque État Partie s’efforce, s’il y a lieu et
+conformément aux principes fondamentaux de son droit interne,
+de mettre en place des mesures et des systèmes faisant obligation
+aux agents publics de déclarer aux autorités compétentes
+notamment toutes activités extérieures, tout emploi, tous
+placements, tous avoirs et tous dons ou avantages substantiels
+d’où pourrait résulter un conflit d’intérêts avec leurs fonctions
+d’agent public.
+6. Chaque État Partie envisage de prendre, conformément
+aux principes fondamentaux de son droit interne, des mesures
+disciplinaires ou autres à l’encontre des agents publics qui
+enfreignent les codes ou normes institués en vertu du présent
+article.
+
+
+
+
+
+
+
+
+
+<!-- Page 6 -->
+
+
+
+
+
+
+
+Article 9
+Passation des marchés publics et gestion des finances publiques
+1. Chaque État Partie prend, conformément aux principes
+fondamentaux de son système juridique, les mesures nécessaires
+pour mettre en place des systèmes appropriés de passation des
+marchés publics qui soient fondés sur la transparence, la
+concurrence et des critères objectifs pour la prise des décisions et
+qui soient efficaces, entre autres, pour prévenir la corruption. Ces
+systèmes, pour l’application desquels des valeurs-seuils peuvent
+être prises en compte, prévoient notamment:
+a) La diffusion publique d’informations concernant les
+procédures de passation des marchés et les marchés, y compris
+d’informations sur les appels d’offres et d’informations
+pertinentes sur l’attribution des marchés, suffisamment de temps
+étant laissé aux soumissionnaires potentiels pour établir et
+soumettre leurs offres;
+b) L’établissement à l’avance des conditions de
+participation, y compris les critères de sélection et d’attribution et
+les règles d’appels d’offres, et leur publication;
+c) L’utilisation de critères objectifs et prédéterminés pour
+la prise des décisions concernant la passation des marchés publics,
+afin de faciliter la vérification ultérieure de l’application correcte
+des règles ou procédures;
+d) Un système de recours interne efficace, y compris un
+système d’appel efficace, qui garantisse l’exercice des voies de
+droit en cas de non-respect des règles ou procédures établies
+conformément au présent paragraphe;
+e) S’il y a lieu, des mesures pour réglementer les
+questions touchant les personnels chargés de la passation des
+marchés, telles que l’exigence d’une déclaration d’intérêt pour
+certains marchés publics, des procédures de sélection desdits
+personnels et des exigences en matière de formation.
+2. Chaque État Partie prend, conformément aux principes
+fondamentaux de son système juridique, des mesures appropriées
+pour promouvoir la transparence et la responsabilité dans la
+gestion des finances publiques. Ces mesures comprennent
+notamment:
+
+a) Des procédures d’adoption du budget national;
+b) La communication en temps utile des dépenses et des
+recettes;
+c) Un système de normes de comptabilité et d’audit, et de
+contrôle au second degré;
+
+d) Des systèmes efficaces de gestion des risques et de
+contrôle interne; et
+e) S’il y a lieu, des mesures correctives en cas de
+manquement aux exigences du présent paragraphe.
+3. Chaque État Partie prend, conformément aux principes
+fondamentaux de son droit interne, les mesures civiles et
+administratives nécessaires pour préserver l’intégrité des livres et
+états comptables, états financiers ou autres documents concernant
+
+
+
+
+
+
+
+<!-- Page 7 -->
+
+
+
+
+
+
+
+les dépenses et recettes publiques et pour en empêcher la
+falsification.
+Article 10
+Information du public
+
+Compte tenu de la nécessité de lutter contre la corruption,
+chaque État Partie prend, conformément aux principes
+fondamentaux de son droit interne, les mesures nécessaires pour
+accroître la transparence de son administration publique, y
+compris en ce qui concerne son organisation, son fonctionnement
+et ses processus décisionnels s’il y a lieu. Ces mesures peuvent
+inclure notamment:
+a) L’adoption de procédures ou de règlements permettant
+aux usagers d’obtenir, s’il y a lieu, des informations sur
+l’organisation, le fonctionnement et les processus décisionnels de
+l’administration publique, ainsi que, compte dûment tenu de la
+protection de la vie privée et des données personnelles, sur les
+décisions et actes juridiques qui les concernent;
+b) La simplification, s’il y a lieu, des procédures
+administratives afin de faciliter l’accès des usagers aux autorités
+de décision compétentes; et
+c) La publication d’informations, y compris
+éventuellement de rapports périodiques sur les risques de
+corruption au sein de l’administration publique.
+
+Article 11
+Mesures concernant les juges et les services de poursuite
+1. Compte tenu de l’indépendance des magistrats et de
+leur rôle crucial dans la lutte contre la corruption, chaque État
+Partie prend, conformément aux principes fondamentaux de son
+système juridique, des mesures pour renforcer leur intégrité et
+prévenir les possibilités de les corrompre, sans préjudice de leur
+indépendance. Ces mesures peuvent comprendre des règles
+concernant leur comportement.
+2. Des mesures dans le même sens que celles prises en
+application du paragraphe 1 du présent article peuvent être
+instituées et appliquées au sein des services de poursuite dans les
+États Parties où ceux-ci forment un corps distinct mais jouissent
+d’une indépendance semblable à celle des juges.
+Article 12
+Secteur privé
+
+1. Chaque État Partie prend, conformément aux principes
+fondamentaux de son droit interne, des mesures pour prévenir la
+corruption impliquant le secteur privé, renforcer les normes de
+comptabilité et d’audit dans le secteur privé et, s’il y a lieu,
+prévoir des sanctions civiles, administratives ou pénales efficaces,
+proportionnées et dissuasives en cas de non-respect de ces
+mesures.
+2. Les mesures permettant d’atteindre ces objectifs
+peuvent notamment inclure:
+a) La promotion de la coopération entre les services de
+détection et de répression et les entités privées concernées;
+
+
+
+
+
+
+<!-- Page 8 -->
+
+
+
+
+
+
+
+b) La promotion de l’élaboration de normes et procédures
+visant à préserver l’intégrité des entités privées concernées, y
+compris de codes de conduite pour que les entreprises et toutes les
+professions concernées exercent leurs activités de manière
+correcte, honorable et adéquate, pour prévenir les conflits
+d’intérêts et pour encourager l’application de bonnes pratiques
+commerciales par les entreprises entre elles ainsi que dans leurs
+relations contractuelles avec l’État;
+c) La promotion de la transparence entre les entités
+privées, y compris, s’il y a lieu, grâce à des mesures concernant
+l’identité des personnes physiques et morales impliquées dans la
+constitution et la gestion des sociétés;
+d) La prévention de l’usage impropre des procédures de
+réglementation des entités privées, y compris des procédures
+concernant les subventions et les licences accordées par des
+autorités publiques pour des activités commerciales;
+e) La prévention des conflits d’intérêts par l’imposition,
+selon qu’il convient et pendant une période raisonnable, de
+restrictions à l’exercice d’activités professionnelles par d’anciens
+agents publics ou à l’emploi par le secteur privé d’agents publics
+après leur démission ou leur départ à la retraite, lorsque lesdites
+activités ou ledit emploi sont directement liés aux fonctions que
+ces anciens agents publics exerçaient ou supervisaient quand ils
+étaient en poste;
+f) L’application aux entreprises privées, compte tenu de
+leur structure et de leur taille, d’audits internes suffisants pour
+faciliter la prévention et la détection des actes de corruption et la
+soumission des comptes et des états financiers requis de ces
+entreprises privées à des procédures appropriées d’audit et de
+certification.
+3. Afin de prévenir la corruption, chaque État Partie prend
+les mesures nécessaires, conformément à ses lois et règlements
+internes concernant la tenue des livres et états comptables, la
+publication d’informations sur les états financiers et les normes de
+comptabilité et d’audit, pour interdire que les actes suivants soient
+accomplis dans le but de commettre l’une quelconque des
+infractions établies conformément à la présente Convention:
+a) L’établissement de comptes hors livres;
+b) Les opérations hors livres ou insuffisamment
+identifiées;
+c) L’enregistrement de dépenses inexistantes;
+
+d) L’enregistrement d’éléments de passif dont l’objet n’est
+pas correctement identifié;
+e) L’utilisation de faux documents; et
+f) La destruction intentionnelle de documents comptables
+plus tôt que ne le prévoit la loi.
+
+4. Chaque État Partie refuse la déductibilité fiscale des
+dépenses qui constituent des pots-de-vin, dont le versement est un
+des éléments constitutifs des infractions établies conformément
+aux articles 15 et 16 de la présente Convention et, s’il y a lieu, des
+autres dépenses engagées à des fins de corruption.
+
+
+
+
+
+
+<!-- Page 9 -->
+
+
+
+
+
+
+
+Article 13
+Participation de la société
+1. Chaque État Partie prend des mesures appropriées,
+dans la limite de ses moyens et conformément aux principes
+fondamentaux de son droit interne, pour favoriser la participation
+active de personnes et de groupes n’appartenant pas au secteur
+public, tels que la société civile, les organisations non
+gouvernementales et les communautés de personnes, à la
+prévention de la corruption et à la lutte contre ce phénomène, ainsi
+que pour mieux sensibiliser le public à l’existence, aux causes et à
+la gravité de la corruption et à la menace que celle-ci représente.
+Cette participation devrait être renforcée par des mesures
+consistant notamment à:
+a) Accroître la transparence des processus de décision et
+promouvoir la participation du public à ces processus;
+b) Assurer l’accès effectif du public à l’information;
+c) Entreprendre des activités d’information du public
+l’incitant à ne pas tolérer la corruption, ainsi que des programmes
+d’éducation du public, notamment dans les écoles et les
+universités;
+d) Respecter, promouvoir et protéger la liberté de
+rechercher, de recevoir, de publier et de diffuser des informations
+concernant la corruption. Cette liberté peut être soumise à
+certaines restrictions, qui doivent toutefois être prescrites par la
+loi et nécessaires:
+
+i) Au respect des droits ou de la réputation d’autrui;
+ii) À la protection de la sécurité nationale ou de l’ordre
+public, ou de la santé ou de la moralité publiques.
+2. Chaque État Partie prend des mesures appropriées pour
+veiller à ce que les organes de prévention de la corruption
+compétents mentionnés dans la présente Convention soient connus
+du public et fait en sorte qu’ils soient accessibles, lorsqu’il y a
+lieu, pour que tous faits susceptibles d’être considérés comme
+constituant une infraction établie conformément à la présente
+Convention puissent leur être signalés, y compris sous couvert
+d’anonymat.
+
+Article 14
+Mesures visant à prévenir le blanchiment d’argent
+1. Chaque État Partie:
+a) Institue un régime interne complet de réglementation et
+de contrôle des banques et institutions financières non bancaires, y
+compris des personnes physiques ou morales qui fournissent des
+services formels ou informels de transmission de fonds ou de
+valeurs ainsi que, s’il y a lieu, des autres entités particulièrement
+exposées au blanchiment d’argent, dans les limites de sa
+compétence, afin de décourager et de détecter toutes formes de
+blanchiment d’argent. Ce régime met l’accent sur les exigences en
+matière d’identification des clients et, s’il y a lieu, des ayants droit
+économiques, d’enregistrement des opérations et de déclaration
+des opérations suspectes;
+
+
+
+
+
+
+
+<!-- Page 10 -->
+
+
+
+
+
+
+
+b) S’assure, sans préjudice de l’article 46 de la présente
+Convention, que les autorités administratives, de réglementation,
+de détection et de répression et autres chargées de la lutte contre le
+blanchiment d’argent (y compris, dans les cas où son droit interne
+le prévoit, les autorités judiciaires) sont en mesure de coopérer et
+d’échanger des informations aux niveaux national et international,
+dans les conditions définies par son droit interne et, à cette fin,
+envisage la création d’un service de renseignement financier
+faisant office de centre national de collecte, d’analyse et de
+diffusion d’informations concernant d’éventuelles opérations de
+blanchiment d’argent.
+2. Les États Parties envisagent de mettre en œuvre des
+mesures réalisables de détection et de surveillance du mouvement
+transfrontière d’espèces et de titres négociables appropriés, sous
+réserve de garanties permettant d’assurer une utilisation correcte
+des informations et sans entraver d’aucune façon la circulation des
+capitaux licites. Il peut être notamment fait obligation aux
+particuliers et aux entreprises de signaler les transferts
+transfrontières de quantités importantes d’espèces et de titres
+négociables appropriés.
+3. Les États Parties envisagent de mettre en œuvre des
+mesures appropriées et réalisables pour exiger des institutions
+financières, y compris des sociétés de transfert de fonds:
+a) Qu’elles consignent sur les formulaires et dans les
+messages concernant les transferts électroniques de fonds des
+informations exactes et utiles sur le donneur d’ordre;
+b) Qu’elles conservent ces informations tout au long de la
+chaîne de paiement; et
+c) Qu’elles exercent une surveillance accrue sur les
+transferts de fonds non accompagnés d’informations complètes sur
+le donneur d’ordre.
+4. Lorsqu’ils instituent un régime interne de
+réglementation et de contrôle en vertu du présent article, et sans
+préjudice de tout autre article de la présente Convention, les États
+Parties sont invités à s’inspirer des initiatives pertinentes prises
+par les organisations régionales, interrégionales et multilatérales
+pour lutter contre le blanchiment d’argent.
+5. Les États Parties s’efforcent de développer et de
+promouvoir la coopération mondiale, régionale, sous-régionale et
+bilatérale entre les autorités judiciaires, les services de détection et
+de répression et les autorités de réglementation financière en vue
+de lutter contre le blanchiment d’argent.
+
+Chapitre III. Incrimination, détection et répression
+
+Article 15
+Corruption d’agents publics nationaux
+
+Chaque État Partie adopte les mesures législatives et autres
+nécessaires pour conférer le caractère d’infraction pénale, lorsque
+les actes ont été commis intentionnellement:
+a) Au fait de promettre, d’offrir ou d’accorder à un agent
+public, directement ou indirectement, un avantage indu, pour lui-
+
+
+
+
+
+
+<!-- Page 11 -->
+
+
+
+
+
+
+
+même ou pour une autre personne ou entité, afin qu’il accomplisse
+ou s’abstienne d’accomplir un acte dans l’exercice de ses
+fonctions officielles;
+b) Au fait pour un agent public de solliciter ou d’accepter,
+directement ou indirectement, un avantage indu, pour lui-même ou
+pour une autre personne ou entité, afin d’accomplir ou de
+s’abstenir d’accomplir un acte dans l’exercice de ses fonctions
+officielles.
+Article 16
+Corruption d’agents publics étrangers et de fonctionnaires
+d’organisations internationales publiques
+
+1. Chaque État Partie adopte les mesures législatives et
+autres nécessaires pour conférer le caractère d’infraction pénale,
+lorsque les actes ont été commis intentionnellement, au fait de
+promettre, d’offrir ou d’accorder à un agent public étranger ou à
+un fonctionnaire d’une organisation internationale publique,
+directement ou indirectement, un avantage indu, pour lui-même ou
+pour une autre personne ou entité, afin qu’il accomplisse ou
+s’abstienne d’accomplir un acte dans l’exercice de ses fonctions
+officielles, en vue d’obtenir ou de conserver un marché ou un
+autre avantage indu en liaison avec des activités de commerce
+international.
+2. Chaque État Partie envisage d’adopter les mesures
+législatives et autres nécessaires pour conférer le caractère
+d’infraction pénale, lorsque les actes ont été commis
+intentionnellement, au fait, pour un agent public étranger ou un
+fonctionnaire d’une organisation internationale publique, de
+solliciter ou d’accepter, directement ou indirectement, un avantage
+indu, pour lui-même ou pour une autre personne ou entité, afin
+d’accomplir ou de s’abstenir d’accomplir un acte dans l’exercice
+de ses fonctions officielles.
+Article 17
+Soustraction, détournement ou autre usage illicite
+de biens par un agent public
+Chaque État Partie adopte les mesures législatives et autres
+nécessaires pour conférer le caractère d’infraction pénale, lorsque
+les actes ont été commis intentionnellement, à la soustraction, au
+détournement ou à un autre usage illicite, par un agent public, à
+son profit ou au profit d’une autre personne ou entité, de tous
+biens, de tous fonds ou valeurs publics ou privés ou de toute autre
+chose de valeur qui lui ont été remis à raison de ses fonctions.
+Article 18
+Trafic d’influence
+Chaque État Partie envisage d’adopter les mesures
+législatives et autres nécessaires pour conférer le caractère
+d’infraction pénale, lorsque les actes ont été commis
+intentionnellement:
+
+a) Au fait de promettre, d’offrir ou d’accorder à un agent
+public ou à toute autre personne, directement ou indirectement, un
+avantage indu afin que ledit agent ou ladite personne abuse de son
+influence réelle ou supposée en vue d’obtenir d’une administration
+
+
+
+
+
+
+<!-- Page 12 -->
+
+
+
+
+
+
+
+ou d’une autorité publique de l’État Partie un avantage indu pour
+l’instigateur initial de l’acte ou pour toute autre personne;
+b) Au fait, pour un agent public ou toute autre personne,
+de solliciter ou d’accepter, directement ou indirectement, un
+avantage indu pour lui-même ou elle-même ou pour une autre
+personne afin d’abuser de son influence réelle ou supposée en vue
+de faire obtenir d’une administration ou d’une autorité publique de
+l’État Partie un avantage indu.
+Article 19
+Abus de fonctions
+
+Chaque État Partie envisage d’adopter les mesures
+législatives et autres nécessaires pour conférer le caractère
+d’infraction pénale, lorsque l’acte a été commis
+intentionnellement, au fait pour un agent public d’abuser de ses
+fonctions ou de son poste, c’est-à-dire d’accomplir ou de
+s’abstenir d’accomplir, dans l’exercice de ses fonctions, un acte en
+violation des lois afin d’obtenir un avantage indu pour lui-même
+ou pour une autre personne ou entité.
+Article 20
+Enrichissement illicite
+Sous réserve de sa constitution et des principes
+fondamentaux de son système juridique, chaque État Partie
+envisage d’adopter les mesures législatives et autres nécessaires
+pour conférer le caractère d’infraction pénale, lorsque l’acte a été
+commis intentionnellement, à l’enrichissement illicite, c’est-à-dire
+une augmentation substantielle du patrimoine d’un agent public
+que celui-ci ne peut raisonnablement justifier par rapport à ses
+revenus légitimes.
+
+Article 21
+Corruption dans le secteur privé
+Chaque État Partie envisage d’adopter les mesures
+législatives et autres nécessaires pour conférer le caractère
+d’infraction pénale, lorsque les actes ont été commis
+intentionnellement dans le cadre d’activités économiques,
+financières ou commerciales:
+a) Au fait de promettre, d’offrir ou d’accorder,
+directement ou indirectement, un avantage indu à toute personne
+qui dirige une entité du secteur privé ou travaille pour une telle
+entité, en quelque qualité que ce soit, pour elle-même ou pour une
+autre personne, afin que, en violation de ses devoirs, elle
+accomplisse ou s’abstienne d’accomplir un acte;
+b) Au fait, pour toute personne qui dirige une entité du
+secteur privé ou travaille pour une telle entité, en quelque qualité
+que ce soit, de solliciter ou d’accepter, directement ou
+indirectement, un avantage indu, pour elle-même ou pour une
+autre personne, afin d’accomplir ou de s’abstenir d’accomplir un
+acte en violation de ses devoirs.
+
+
+
+
+
+
+
+
+
+
+<!-- Page 13 -->
+
+
+
+
+
+
+
+Article 22
+Soustraction de biens dans le secteur privé
+Chaque État Partie envisage d’adopter les mesures
+législatives et autres nécessaires pour conférer le caractère
+d’infraction pénale, lorsque l’acte a été commis
+intentionnellement dans le cadre d’activités économiques,
+financières ou commerciales, à la soustraction par une personne
+qui dirige une entité du secteur privé ou travaille pour une telle
+entité, en quelque qualité que ce soit, de tous biens, de tous fonds
+ou valeurs privés ou de toute autre chose de valeur qui lui ont été
+remis à raison de ses fonctions.
+Article 23
+Blanchiment du produit du crime
+
+1. Chaque État Partie adopte, conformément aux principes
+fondamentaux de son droit interne, les mesures législatives et
+autres nécessaires pour conférer le caractère d’infraction pénale,
+lorsque les actes ont été commis intentionnellement:
+a) i) À la conversion ou au transfert de biens dont
+celui qui s’y livre sait qu’ils sont le produit du crime, dans le
+but de dissimuler ou de déguiser l’origine illicite desdits
+biens ou d’aider toute personne qui est impliquée dans la
+commission de l’infraction principale à échapper aux
+conséquences juridiques de ses actes;
+ii) À la dissimulation ou au déguisement de la nature
+véritable, de l’origine, de l’emplacement, de la disposition,
+du mouvement ou de la propriété de biens ou de droits y
+relatifs dont l’auteur sait qu’ils sont le produit du crime;
+b) Sous réserve des concepts fondamentaux de son
+système juridique:
+i) À l’acquisition, à la détention ou à l’utilisation de biens
+dont celui qui les acquiert, les détient ou les utilise sait, au
+moment où il les reçoit, qu’ils sont le produit du crime;
+ii) À la participation à l’une des infractions établies
+conformément au présent article ou à toute association,
+entente, tentative ou complicité par fourniture d’une
+assistance, d’une aide ou de conseils en vue de sa
+commission.
+2. Aux fins de l’application du paragraphe 1 du présent
+article:
+
+a) Chaque État Partie s’efforce d’appliquer le paragraphe
+1 du présent article à l’éventail le plus large d’infractions
+principales;
+b) Chaque État Partie inclut dans les infractions
+principales au minimum un éventail complet d’infractions pénales
+établies conformément à la présente Convention;
+c) Aux fins de l’alinéa b) ci-dessus, les infractions
+principales incluent les infractions commises à l’intérieur et à
+l’extérieur du territoire relevant de la compétence de l’État Partie
+en question. Toutefois, une infraction commise à l’extérieur du
+territoire relevant de la compétence d’un État Partie ne constitue
+une infraction principale que lorsque l’acte correspondant est une
+
+
+
+
+
+
+<!-- Page 14 -->
+
+
+
+
+
+
+
+infraction pénale dans le droit interne de l’État où il a été commis
+et constituerait une infraction pénale dans le droit interne de l’État
+Partie appliquant le présent article s’il avait été commis sur son
+territoire;
+d) Chaque État Partie remet au Secrétaire général de
+l’Organisation des Nations Unies une copie de ses lois qui
+donnent effet au présent article ainsi que de toute modification
+ultérieurement apportée à ces lois ou une description de ces lois et
+modifications ultérieures;
+e) Lorsque les principes fondamentaux du droit interne
+d’un État Partie l’exigent, il peut être disposé que les infractions
+énoncées au paragraphe 1 du présent article ne s’appliquent pas
+aux personnes qui ont commis l’infraction principale.
+
+Article 24
+Recel
+Sans préjudice des dispositions de l’article 23 de la présente
+Convention, chaque État Partie envisage d’adopter les mesures
+législatives et autres nécessaires pour conférer le caractère
+d’infraction pénale, lorsque les actes ont été commis
+intentionnellement après la commission de l’une quelconque des
+infractions établies conformément à la présente Convention sans
+qu’il y ait eu participation auxdites infractions, au fait de
+dissimuler ou de retenir de façon continue des biens en sachant
+que lesdits biens proviennent de l’une quelconque des infractions
+établies conformément à la présente Convention.
+Article 25
+Entrave au bon fonctionnement de la justice
+Chaque État Partie adopte les mesures législatives et autres
+nécessaires pour conférer le caractère d’infraction pénale, lorsque
+les actes ont été commis intentionnellement:
+
+a) Au fait de recourir à la force physique, à des menaces
+ou à l’intimidation ou de promettre, d’offrir ou d’accorder un
+avantage indu pour obtenir un faux témoignage ou empêcher un
+témoignage ou la présentation d’éléments de preuve dans une
+procédure en rapport avec la commission d’infractions établies
+conformément à la présente Convention;
+b) Au fait de recourir à la force physique, à des menaces
+ou à l’intimidation pour empêcher un agent de la justice ou un
+agent des services de détection et de répression d’exercer les
+devoirs de leur charge en rapport avec la commission d’infractions
+établies conformément à la présente Convention. Rien dans le
+présent alinéa ne porte atteinte au droit des États Parties de
+disposer d’une législation destinée à protéger d’autres catégories
+d’agents publics.
+Article 26
+Responsabilité des personnes morales
+1. Chaque État Partie adopte les mesures nécessaires,
+conformément à ses principes juridiques, pour établir la
+responsabilité des personnes morales qui participent aux
+infractions établies conformément à la présente Convention.
+
+
+
+
+
+
+
+<!-- Page 15 -->
+
+
+
+
+
+
+
+2. Sous réserve des principes juridiques de l’État Partie,
+la responsabilité des personnes morales peut être pénale, civile ou
+administrative.
+3. Cette responsabilité est sans préjudice de la
+responsabilité pénale des personnes physiques qui ont commis les
+infractions.
+4. Chaque État Partie veille, en particulier, à ce que les
+personnes morales tenues responsables conformément au présent
+article fassent l’objet de sanctions efficaces, proportionnées et
+dissuasives de nature pénale ou non pénale, y compris de
+sanctions pécuniaires.
+
+Article 27
+Participation et tentative
+1. Chaque État Partie adopte les mesures législatives et
+autres nécessaires pour conférer le caractère d’infraction pénale,
+conformément à son droit interne, au fait de participer à quelque
+titre que ce soit, par exemple comme complice, autre assistant ou
+instigateur, à une infraction établie conformément à la présente
+Convention.
+2. Chaque État Partie peut adopter les mesures
+législatives et autres nécessaires pour conférer le caractère
+d’infraction pénale, conformément à son droit interne, au fait de
+tenter de commettre une infraction établie conformément à la
+présente Convention.
+3. Chaque État Partie peut adopter les mesures
+législatives et autres nécessaires pour conférer le caractère
+d’infraction pénale, conformément à son droit interne, au fait de
+préparer une infraction établie conformément à la présente
+Convention.
+
+Article 28
+La connaissance, l’intention et la motivation
+en tant qu’éléments d’une infraction
+La connaissance, l’intention ou la motivation nécessaires en
+tant qu’éléments d’une infraction établie conformément à la
+présente Convention peuvent être déduites de circonstances
+factuelles objectives.
+Article 29
+Prescription
+
+Lorsqu’il y a lieu, chaque État Partie fixe, dans le cadre de
+son droit interne, un long délai de prescription dans lequel des
+poursuites peuvent être engagées du chef d’une des infractions
+établies conformément à la présente Convention et fixe un délai
+plus long ou suspend la prescription lorsque l’auteur présumé de
+l’infraction s’est soustrait à la justice.
+Article 30
+Poursuites judiciaires, jugement et sanctions
+
+1. Chaque État Partie rend la commission d’une infraction
+établie conformément à la présente Convention passible de
+sanctions qui tiennent compte de la gravité de cette infraction.
+
+
+
+
+
+
+<!-- Page 16 -->
+
+
+
+
+
+
+
+2. Chaque État Partie prend les mesures nécessaires pour
+établir ou maintenir, conformément à son système juridique et à
+ses principes constitutionnels, un équilibre approprié entre toutes
+immunités ou tous privilèges de juridiction accordés à ses agents
+publics dans l’exercice de leurs fonctions, et la possibilité, si
+nécessaire, de rechercher, de poursuivre et de juger effectivement
+les infractions établies conformément à la présente Convention.
+3. Chaque État Partie s’efforce de faire en sorte que tout
+pouvoir judiciaire discrétionnaire conféré par son droit interne et
+afférent aux poursuites judiciaires engagées contre des personnes
+pour des infractions établies conformément à la présente
+Convention soit exercé de façon à optimiser l’efficacité des
+mesures de détection et de répression de ces infractions, compte
+dûment tenu de la nécessité d’exercer un effet dissuasif en ce qui
+concerne leur commission.
+4. S’agissant d’infractions établies conformément à la
+présente Convention, chaque État Partie prend des mesures
+appropriées, conformément à son droit interne et compte dûment
+tenu des droits de la défense, pour faire en sorte que les conditions
+auxquelles sont subordonnées les décisions de mise en liberté dans
+l’attente du jugement ou de la procédure d’appel tiennent compte
+de la nécessité d’assurer la présence du défendeur lors de la
+procédure pénale ultérieure.
+5. Chaque État Partie prend en compte la gravité des
+infractions concernées lorsqu’il envisage l’éventualité d’une
+libération anticipée ou conditionnelle de personnes reconnues
+coupables de ces infractions.
+6. Chaque État Partie, dans la mesure compatible avec les
+principes fondamentaux de son système juridique, envisage
+d’établir des procédures permettant, s’il y a lieu, à l’autorité
+compétente de révoquer, de suspendre ou de muter un agent public
+accusé d’une infraction établie conformément à la présente
+Convention, en gardant à l’esprit le respect du principe de la
+présomption d’innocence.
+7. Lorsque la gravité de l’infraction le justifie, chaque
+État Partie, dans la mesure compatible avec les principes
+fondamentaux de son système juridique, envisage d’établir des
+procédures permettant de déchoir, par décision de justice ou par
+tout autre moyen approprié, pour une durée fixée par son droit
+interne, les personnes reconnues coupables d’infractions établies
+conformément à la présente Convention du droit:
+a) D’exercer une fonction publique; et
+b) D’exercer une fonction dans une entreprise dont l’État
+est totalement ou partiellement propriétaire.
+8. Le paragraphe 1 du présent article s’entend sans
+préjudice de l’exercice des pouvoirs disciplinaires par les autorités
+compétentes à l’encontre des fonctionnaires.
+9. Aucune disposition de la présente Convention ne porte
+atteinte au principe selon lequel la définition des infractions
+établies conformément à celle-ci et des moyens juridiques de
+défense applicables ou autres principes juridiques régissant la
+légalité des incriminations relève exclusivement du droit interne
+
+
+
+
+
+
+
+<!-- Page 17 -->
+
+
+
+
+
+
+
+d’un État Partie et selon lequel lesdites infractions sont
+poursuivies et punies conformément à ce droit.
+10. Les États Parties s’efforcent de promouvoir la
+réinsertion dans la société des personnes reconnues coupables
+d’infractions établies conformément à la présente Convention.
+
+Article 31
+Gel, saisie et confiscation
+1. Chaque État Partie prend, dans toute la mesure possible
+dans le cadre de son système juridique interne, les mesures
+nécessaires pour permettre la confiscation:
+a) Du produit du crime provenant d’infractions établies
+conformément à la présente Convention ou de biens dont la valeur
+correspond à celle de ce produit;
+b) Des biens, matériels ou autres instruments utilisés ou
+destinés à être utilisés pour les infractions établies conformément
+à la présente Convention.
+
+2. Chaque État Partie prend les mesures nécessaires pour
+permettre l’identification, la localisation, le gel ou la saisie de tout
+ce qui est mentionné au paragraphe 1 du présent article aux fins de
+confiscation éventuelle.
+3. Chaque État Partie adopte, conformément à son droit
+interne, les mesures législatives et autres nécessaires pour
+réglementer l’administration par les autorités compétentes des
+biens gelés, saisis ou confisqués visés aux paragraphes 1 et 2 du
+présent article.
+4. Si ce produit du crime a été transformé ou converti, en
+partie ou en totalité, en d’autres biens, ces derniers peuvent faire
+l’objet des mesures visées au présent article en lieu et place dudit
+produit.
+5. Si ce produit du crime a été mêlé à des biens acquis
+légitimement, ces biens, sans préjudice de tout pouvoir de gel ou
+de saisie, sont confiscables à concurrence de la valeur estimée du
+produit qui y a été mêlé.
+6. Les revenus ou autres avantages tirés de ce produit du
+crime, des biens en lesquels le produit a été transformé ou converti
+ou des biens auxquels il a été mêlé peuvent aussi faire l’objet des
+mesures visées au présent article, de la même manière et dans la
+même mesure que le produit du crime.
+7. Aux fins du présent article et de l’article 55 de la
+présente Convention, chaque État Partie habilite ses tribunaux ou
+autres autorités compétentes à ordonner la production ou la saisie
+de documents bancaires, financiers ou commerciaux. Un État
+Partie ne peut invoquer le secret bancaire pour refuser de donner
+effet aux dispositions du présent paragraphe.
+8. Les États Parties peuvent envisager d’exiger que
+l’auteur d’une infraction établisse l’origine licite du produit
+présumé du crime ou d’autres biens confiscables, dans la mesure
+où cette exigence est conforme aux principes fondamentaux de
+leur droit interne et à la nature des procédures judiciaires et autres.
+9. L’interprétation des dispositions du présent article ne
+doit en aucun cas porter atteinte aux droits des tiers de bonne foi.
+
+
+
+
+
+
+<!-- Page 18 -->
+
+
+
+
+
+
+
+10. Aucune disposition du présent article ne porte atteinte
+au principe selon lequel les mesures qui y sont visées sont définies
+et exécutées conformément aux dispositions du droit interne de
+chaque État Partie et sous réserve de celles-ci.
+Article 32
+Protection des témoins, des experts et des victimes
+
+1. Chaque État Partie prend, conformément à son système
+juridique interne et dans la limite de ses moyens, des mesures
+appropriées pour assurer une protection efficace contre des actes
+éventuels de représailles ou d’intimidation aux témoins et aux
+experts qui déposent concernant des infractions établies
+conformément à la présente Convention et, s’il y a lieu, à leurs
+parents et à d’autres personnes qui leur sont proches.
+2. Les mesures envisagées au paragraphe 1 du présent
+article peuvent consister notamment, sans préjudice des droits du
+défendeur, y compris du droit à une procédure régulière:
+a) À établir, pour la protection physique de ces personnes,
+des procédures visant notamment, selon les besoins et dans la
+mesure du possible, à leur fournir un nouveau domicile et à
+permettre, s’il y a lieu, que les renseignements concernant leur
+identité et le lieu où elles se trouvent ne soient pas divulgués ou
+que leur divulgation soit limitée;
+b) À prévoir des règles de preuve qui permettent aux
+témoins et experts de déposer d’une manière qui garantisse leur
+sécurité, notamment à les autoriser à déposer en recourant à des
+techniques de communication telles que les liaisons vidéo ou à
+d’autres moyens adéquats.
+3. Les États Parties envisagent de conclure des accords ou
+arrangements avec d’autres États en vue de fournir un nouveau
+domicile aux personnes mentionnées au paragraphe 1 du présent
+article.
+4. Les dispositions du présent article s’appliquent
+également aux victimes lorsqu’elles sont témoins.
+5. Chaque État Partie, sous réserve de son droit interne,
+fait en sorte que les avis et préoccupations des victimes soient
+présentés et pris en compte aux stades appropriés de la procédure
+pénale engagée contre les auteurs d’infractions d’une manière qui
+ne porte pas préjudice aux droits de la défense.
+
+Article 33
+Protection des personnes qui communiquent des informations
+Chaque État Partie envisage d’incorporer dans son système
+juridique interne des mesures appropriées pour assurer la
+protection contre tout traitement injustifié de toute personne qui
+signale aux autorités compétentes, de bonne foi et sur la base de
+soupçons raisonnables, tous faits concernant les infractions
+établies conformément à la présente Convention.
+
+Article 34
+Conséquences d’actes de corruption
+Compte dûment tenu des droits des tiers acquis de bonne foi,
+chaque État Partie prend, conformément aux principes
+
+
+
+
+
+
+<!-- Page 19 -->
+
+
+
+
+
+
+
+fondamentaux de son droit interne, des mesures pour s’attaquer
+aux conséquences de la corruption. Dans cette perspective, les
+États Parties peuvent considérer la corruption comme un facteur
+pertinent dans une procédure judiciaire pour décider l’annulation
+ou la rescision d’un contrat, le retrait d’une concession ou de tout
+autre acte juridique analogue ou prendre toute autre mesure
+corrective.
+Article 35
+Réparation du préjudice
+Chaque État Partie prend les mesures nécessaires,
+conformément aux principes de son droit interne, pour donner aux
+entités ou personnes qui ont subi un préjudice du fait d’un acte de
+corruption le droit d’engager une action en justice à l’encontre des
+responsables dudit préjudice en vue d’obtenir réparation.
+
+Article 36
+Autorités spécialisées
+Chaque État Partie fait en sorte, conformément aux principes
+fondamentaux de son système juridique, qu’existent un ou
+plusieurs organes ou des personnes spécialisés dans la lutte contre
+la corruption par la détection et la répression. Ce ou ces organes
+ou ces personnes se voient accorder l’indépendance nécessaire,
+conformément aux principes fondamentaux du système juridique
+de l’État Partie, pour pouvoir exercer leurs fonctions efficacement
+et à l’abri de toute influence indue. Ces personnes ou le personnel
+dudit ou desdits organes devraient avoir la formation et les
+ressources appropriées pour exercer leurs tâches.
+Article 37
+Coopération avec les services de détection et de répression
+
+1. Chaque État Partie prend des mesures appropriées pour
+encourager les personnes qui participent ou ont participé à la
+commission d’une infraction établie conformément à la présente
+Convention à fournir aux autorités compétentes des informations
+utiles à des fins d’enquête et de recherche de preuves, ainsi qu’une
+aide factuelle et concrète qui pourrait contribuer à priver les
+auteurs de l’infraction du produit du crime et à récupérer ce
+produit.
+2. Chaque État Partie envisage de prévoir la possibilité,
+dans les cas appropriés, d’alléger la peine dont est passible un
+prévenu qui coopère de manière substantielle à l’enquête ou aux
+poursuites relatives à une infraction établie conformément à la
+présente Convention.
+3. Chaque État Partie envisage de prévoir la possibilité,
+conformément aux principes fondamentaux de son droit interne,
+d’accorder l’immunité de poursuites à une personne qui coopère
+de manière substantielle à l’enquête ou aux poursuites relatives à
+une infraction établie conformément à la présente Convention.
+4. La protection de ces personnes est assurée, mutatis
+mutandis, comme le prévoit l’article 32 de la présente Convention.
+5. Lorsqu’une personne qui est visée au paragraphe 1 du
+présent article et se trouve dans un État Partie peut apporter une
+coopération substantielle aux autorités compétentes d’un autre
+
+
+
+
+
+
+<!-- Page 20 -->
+
+
+
+
+
+
+
+État Partie, les États Parties concernés peuvent envisager de
+conclure des accords ou arrangements, conformément à leur droit
+interne, concernant l’éventuel octroi par l’autre État Partie du
+traitement décrit aux paragraphes 2 et 3 du présent article.
+Article 38
+Coopération entre autorités nationales
+
+Chaque État Partie prend les mesures nécessaires pour
+encourager, conformément à son droit interne, la coopération
+entre, d’une part, ses autorités publiques ainsi que ses agents
+publics et, d’autre part, ses autorités chargées des enquêtes et des
+poursuites relatives à des infractions pénales. Cette coopération
+peut consister:
+a) Pour les premiers à informer, de leur propre initiative,
+les secondes lorsqu’il existe des motifs raisonnables de considérer
+que l’une des infractions établies conformément aux articles 15,
+21 et 23 de la présente Convention a été commise; ou
+b) Pour les premiers à fournir, sur demande, aux secondes
+toutes les informations nécessaires.
+
+Article 39
+Coopération entre autorités nationales et secteur privé
+1. Chaque État Partie prend les mesures nécessaires pour
+encourager, conformément à son droit interne, la coopération entre
+les autorités nationales chargées des enquêtes et des poursuites et
+des entités du secteur privé, en particulier les institutions
+financières, sur des questions concernant la commission
+d’infractions établies conformément à la présente Convention.
+2. Chaque État Partie envisage d’encourager ses
+ressortissants et les autres personnes ayant leur résidence
+habituelle sur son territoire à signaler aux autorités nationales
+chargées des enquêtes et des poursuites la commission d’une
+infraction établie conformément à la présente Convention.
+Article 40
+Secret bancaire
+
+Chaque État Partie veille, en cas d’enquêtes judiciaires
+nationales sur des infractions établies conformément à la présente
+Convention, à ce qu’il y ait dans son système juridique interne des
+mécanismes appropriés pour surmonter les obstacles qui peuvent
+résulter de l’application de lois sur le secret bancaire.
+Article 41
+Antécédents judiciaires
+
+Chaque État Partie peut adopter les mesures législatives ou
+autres nécessaires pour tenir compte, dans les conditions et aux
+fins qu’il juge appropriées, de toute condamnation dont l’auteur
+présumé d’une infraction aurait antérieurement fait l’objet dans un
+autre État, afin d’utiliser cette information dans le cadre d’une
+procédure pénale relative à une infraction établie conformément à
+la présente Convention.
+
+
+
+
+
+
+
+
+<!-- Page 21 -->
+
+
+
+
+
+
+
+Article 42
+Compétence
+1. Chaque État Partie adopte les mesures nécessaires pour
+établir sa compétence à l’égard des infractions établies
+conformément à la présente Convention dans les cas suivants:
+a) Lorsque l’infraction est commise sur son territoire; ou
+
+b) Lorsque l’infraction est commise à bord d’un navire
+qui bat son pavillon ou à bord d’un aéronef immatriculé
+conformément à son droit interne au moment où ladite infraction
+est commise.
+2. Sous réserve de l’article 4 de la présente Convention,
+un État Partie peut également établir sa compétence à l’égard de
+l’une quelconque de ces infractions dans les cas suivants:
+a) Lorsque l’infraction est commise à l’encontre d’un de
+ses ressortissants; ou
+b) Lorsque l’infraction est commise par l’un de ses
+ressortissants ou par une personne apatride résidant
+habituellement sur son territoire; ou
+
+c) Lorsque l’infraction est l’une de celles établies
+conformément à l’alinéa b) ii) du paragraphe 1 de l’article 23 de la
+présente Convention et est commise hors de son territoire en vue
+de la commission, sur son territoire, d’une infraction établie
+conformément aux alinéas a) i) ou ii) ou b) i) du paragraphe 1 de
+l’article 23 de la présente Convention; ou
+d) Lorsque l’infraction est commise à son encontre.
+3. Aux fins de l’article 44 de la présente Convention,
+chaque État Partie prend les mesures nécessaires pour établir sa
+compétence à l’égard des infractions établies conformément à la
+présente Convention lorsque l’auteur présumé se trouve sur son
+territoire et qu’il n’extrade pas cette personne au seul motif
+qu’elle est l’un de ses ressortissants.
+4. Chaque État Partie peut également prendre les mesures
+nécessaires pour établir sa compétence à l’égard des infractions
+établies conformément à la présente Convention lorsque l’auteur
+présumé se trouve sur son territoire et qu’il ne l’extrade pas.
+5. Si un État Partie qui exerce sa compétence en vertu du
+paragraphe 1 ou 2 du présent article a été avisé, ou a appris de
+toute autre façon, que d’autres États Parties mènent une enquête
+ou ont engagé des poursuites ou une procédure judiciaire
+concernant le même acte, les autorités compétentes de ces États
+Parties se consultent, selon qu’il convient, pour coordonner leurs
+actions.
+6. Sans préjudice des normes du droit international
+général, la présente Convention n’exclut pas l’exercice de toute
+compétence pénale établie par un État Partie conformément à son
+droit interne.
+
+
+
+
+
+
+
+
+
+
+
+<!-- Page 22 -->
+
+
+
+
+
+
+
+Chapitre IV. Coopération internationale
+
+Article 43
+Coopération internationale
+1. Les États Parties coopèrent en matière pénale
+conformément aux articles 44 à 50 de la présente Convention.
+Lorsqu’il y a lieu et conformément à leur système juridique
+interne, les États Parties envisagent de se prêter mutuellement
+assistance dans les enquêtes et les procédures concernant des
+affaires civiles et administratives relatives à la corruption.
+2. En matière de coopération internationale, chaque fois
+que la double incrimination est considérée comme une condition,
+celle-ci est réputée remplie, que la législation de l’État Partie
+requis qualifie ou désigne ou non l’infraction de la même manière
+que l’État Partie requérant, si l’acte constituant l’infraction pour
+laquelle l’assistance est demandée est une infraction pénale en
+vertu de la législation des deux États Parties.
+Article 44
+Extradition
+
+1. Le présent article s’applique aux infractions établies
+conformément à la présente Convention lorsque la personne
+faisant l’objet de la demande d’extradition se trouve sur le
+territoire de l’État Partie requis, à condition que l’infraction pour
+laquelle l’extradition est demandée soit punissable par le droit
+interne de l’État Partie requérant et de l’État Partie requis.
+2. Nonobstant les dispositions du paragraphe 1 du présent
+article, un État Partie dont la législation le permet peut accorder
+l’extradition d’une personne pour l’une quelconque des infractions
+visées par la présente Convention qui ne sont pas punissables en
+vertu de son droit interne.
+3. Si la demande d’extradition porte sur plusieurs
+infractions distinctes, dont au moins une donne lieu à extradition
+en vertu du présent article et dont certaines ne donnent pas lieu à
+extradition en raison de la durée de l’emprisonnement mais ont un
+lien avec des infractions établies conformément à la présente
+Convention, l’État Partie requis peut appliquer le présent article
+également à ces infractions.
+4. Chacune des infractions auxquelles s’applique le
+présent article est de plein droit incluse dans tout traité
+d’extradition en vigueur entre les États Parties en tant
+qu’infraction dont l’auteur peut être extradé. Les États Parties
+s’engagent à inclure ces infractions en tant qu’infractions dont
+l’auteur peut être extradé dans tout traité d’extradition qu’ils
+concluront entre eux. Un État Partie dont la législation le permet,
+lorsqu’il se fonde sur la présente Convention pour l’extradition, ne
+considère aucune des infractions établies conformément à la
+présente Convention comme une infraction politique.
+5. Si un État Partie qui subordonne l’extradition à
+l’existence d’un traité reçoit une demande d’extradition d’un État
+Partie avec lequel il n’a pas conclu pareil traité, il peut considérer
+la présente Convention comme la base légale de l’extradition pour
+les infractions auxquelles le présent article s’applique.
+
+
+
+
+
+
+<!-- Page 23 -->
+
+
+
+
+
+
+
+6. Un État Partie qui subordonne l’extradition à
+l’existence d’un traité:
+a) Au moment du dépôt de son instrument de ratification,
+d’acceptation, d’approbation ou d’adhésion à la présente
+Convention, indique au Secrétaire général de l’Organisation des
+Nations Unies s’il considère la présente Convention comme la
+base légale pour coopérer en matière d’extradition avec d’autres
+États Parties; et
+b) S’il ne considère pas la présente Convention comme la
+base légale pour coopérer en matière d’extradition, s’efforce, s’il y
+a lieu, de conclure des traités d’extradition avec d’autres États
+Parties afin d’appliquer le présent article.
+7. Les États Parties qui ne subordonnent pas l’extradition
+à l’existence d’un traité reconnaissent entre eux aux infractions
+auxquelles le présent article s’applique le caractère d’infraction
+dont l’auteur peut être extradé.
+8. L’extradition est subordonnée aux conditions prévues
+par le droit interne de l’État Partie requis ou par les traités
+d’extradition applicables, y compris, notamment, aux conditions
+concernant la peine minimale requise pour extrader et aux motifs
+pour lesquels l’État Partie requis peut refuser l’extradition.
+9. Les États Parties s’efforcent, sous réserve de leur droit
+interne, d’accélérer les procédures d’extradition et de simplifier
+les exigences en matière de preuve y relatives en ce qui concerne
+les infractions auxquelles s’applique le présent article.
+
+10. Sous réserve des dispositions de son droit interne et des
+traités d’extradition qu’il a conclus, l’État Partie requis peut, à la
+demande de l’État Partie requérant et s’il estime que les
+circonstances le justifient et qu’il y a urgence, placer en détention
+une personne présente sur son territoire dont l’extradition est
+demandée ou prendre à son égard d’autres mesures appropriées
+pour assurer sa présence lors de la procédure d’extradition.
+11. Un État Partie sur le territoire duquel se trouve l’auteur
+présumé d’une infraction, s’il n’extrade pas cette personne au titre
+d’une infraction à laquelle s’applique le présent article au seul
+motif qu’elle est l’un de ses ressortissants, est tenu, à la demande
+de l’État Partie requérant l’extradition, de soumettre l’affaire sans
+retard excessif à ses autorités compétentes aux fins de poursuites.
+Lesdites autorités prennent leur décision et mènent les poursuites
+de la même manière que pour toute autre infraction grave en vertu
+du droit interne de cet État Partie. Les États Parties intéressés
+coopèrent entre eux, notamment en matière de procédure et de
+preuve, afin d’assurer l’efficacité des poursuites.
+12. Lorsqu’un État Partie, en vertu de son droit interne,
+n’est autorisé à extrader ou remettre de toute autre manière l’un de
+ses ressortissants que si cette personne est ensuite renvoyée sur
+son territoire pour purger la peine prononcée à l’issue du procès
+ou de la procédure à l’origine de la demande d’extradition ou de
+remise, et lorsque cet État Partie et l’État Partie requérant
+s’accordent sur cette option et d’autres conditions qu’ils peuvent
+juger appropriées, cette extradition ou remise conditionnelle est
+suffisante aux fins de l’exécution de l’obligation énoncée au
+paragraphe 11 du présent article.
+
+
+
+
+
+<!-- Page 24 -->
+
+
+
+
+
+
+
+13. Si l’extradition, demandée aux fins d’exécution d’une
+peine, est refusée parce que la personne faisant l’objet de cette
+demande est un ressortissant de l’État Partie requis, celui-ci, si son
+droit interne le lui permet, en conformité avec les prescriptions de
+ce droit et à la demande de l’État Partie requérant, envisage de
+faire exécuter lui-même la peine prononcée conformément au droit
+interne de l’État Partie requérant, ou le reliquat de cette peine.
+14. Toute personne faisant l’objet de poursuites en raison
+de l’une quelconque des infractions auxquelles le présent article
+s’applique se voit garantir un traitement équitable à tous les stades
+de la procédure, y compris la jouissance de tous les droits et de
+toutes les garanties prévus par le droit interne de l’État Partie sur
+le territoire duquel elle se trouve.
+15. Aucune disposition de la présente Convention ne doit
+être interprétée comme faisant obligation à l’État Partie requis
+d’extrader s’il a de sérieuses raisons de penser que la demande a
+été présentée aux fins de poursuivre ou de punir une personne en
+raison de son sexe, de sa race, de sa religion, de sa nationalité, de
+son origine ethnique ou de ses opinions politiques, ou que donner
+suite à cette demande causerait un préjudice à cette personne pour
+l’une quelconque de ces raisons.
+16. Les États Parties ne peuvent refuser une demande
+d’extradition au seul motif que l’infraction est considérée comme
+touchant aussi à des questions fiscales.
+17. Avant de refuser l’extradition, l’État Partie requis
+consulte, s’il y a lieu, l’État Partie requérant afin de lui donner
+toute possibilité de présenter ses opinions et de fournir des
+informations à l’appui de ses allégations.
+18. Les États Parties s’efforcent de conclure des accords ou
+arrangements bilatéraux et multilatéraux pour permettre
+l’extradition ou pour en accroître l’efficacité.
+
+Article 45
+Transfèrement des personnes condamnées
+Les États Parties peuvent envisager de conclure des accords
+ou des arrangements bilatéraux ou multilatéraux relatifs au
+transfèrement sur leur territoire de personnes condamnées à des
+peines d’emprisonnement ou autres peines privatives de liberté du
+fait d’infractions établies conformément à la présente Convention
+afin qu’elles puissent y purger le reliquat de leur peine.
+Article 46
+Entraide judiciaire
+
+1. Les États Parties s’accordent mutuellement l’entraide
+judiciaire la plus large possible lors des enquêtes, poursuites et
+procédures judiciaires concernant les infractions visées par la
+présente Convention.
+2. L’entraide judiciaire la plus large possible est accordée,
+autant que les lois, traités, accords et arrangements pertinents de
+l’État Partie requis le permettent, lors des enquêtes, poursuites et
+procédures judiciaires concernant les infractions dont une
+personne morale peut être tenue responsable dans l’État Partie
+requérant, conformément à l’article 26 de la présente Convention.
+
+
+
+
+
+
+<!-- Page 25 -->
+
+
+
+
+
+
+
+3. L’entraide judiciaire qui est accordée en application du
+présent article peut être demandée aux fins suivantes:
+a) Recueillir des témoignages ou des dépositions;
+b) Signifier des actes judiciaires;
+
+c) Effectuer des perquisitions et des saisies, ainsi que des
+gels;
+d) Examiner des objets et visiter des lieux;
+e) Fournir des informations, des pièces à conviction et des
+estimations d’experts;
+
+f) Fournir des originaux ou des copies certifiées
+conformes de documents et dossiers pertinents, y compris des
+documents administratifs, bancaires, financiers ou commerciaux et
+des documents de société;
+g) Identifier ou localiser des produits du crime, des biens,
+des instruments ou d’autres choses afin de recueillir des éléments
+de preuve;
+h) Faciliter la comparution volontaire de personnes dans
+l’État Partie requérant;
+i) Fournir tout autre type d’assistance compatible avec le
+droit interne de l’État Partie requis;
+
+j) Identifier, geler et localiser le produit du crime,
+conformément aux dispositions du chapitre V de la présente
+Convention;
+k) Recouvrer des avoirs, conformément aux dispositions
+du chapitre V de la présente Convention.
+4. Sans préjudice du droit interne, les autorités
+compétentes d’un État Partie peuvent, sans demande préalable,
+communiquer des informations concernant des affaires pénales à
+une autorité compétente d’un autre État Partie, si elles pensent que
+ces informations pourraient aider celle-ci à entreprendre ou à
+mener à bien des enquêtes et des poursuites pénales, ou amener ce
+dernier État Partie à formuler une demande en vertu de la présente
+Convention.
+5. La communication d’informations conformément au
+paragraphe 4 du présent article se fait sans préjudice des enquêtes
+et poursuites pénales dans l’État dont les autorités compétentes
+fournissent les informations. Les autorités compétentes qui
+reçoivent ces informations accèdent à toute demande tendant à ce
+que lesdites informations restent confidentielles, même
+temporairement, ou à ce que leur utilisation soit assortie de
+restrictions. Toutefois, cela n’empêche pas l’État Partie qui reçoit
+les informations de révéler, lors de la procédure judiciaire, des
+informations à la décharge d’un prévenu. Dans ce dernier cas,
+l’État Partie qui reçoit les informations avise l’État Partie qui les
+communique avant la révélation, et s’il lui en est fait la demande,
+consulte ce dernier. Si, dans un cas exceptionnel, une notification
+préalable n’est pas possible, l’État Partie qui reçoit les
+informations informe sans retard de la révélation l’État Partie qui
+les communique.
+6. Les dispositions du présent article n’affectent en rien
+les obligations découlant de tout autre traité bilatéral ou
+
+
+
+
+
+<!-- Page 26 -->
+
+
+
+
+
+
+
+multilatéral régissant ou devant régir, entièrement ou
+partiellement, l’entraide judiciaire.
+7. Les paragraphes 9 à 29 du présent article sont
+applicables aux demandes faites conformément au présent article
+si les États Parties en question ne sont pas liés par un traité
+d’entraide judiciaire. Si lesdits États Parties sont liés par un tel
+traité, les dispositions correspondantes de ce traité sont
+applicables, à moins que les États Parties ne conviennent
+d’appliquer à leur place les dispositions des paragraphes 9 à 29 du
+présent article. Les États Parties sont vivement encouragés à
+appliquer ces paragraphes s’ils facilitent la coopération.
+8. Les États Parties ne peuvent invoquer le secret bancaire
+pour refuser l’entraide judiciaire prévue au présent article.
+9. a) Lorsqu’en application du présent article il répond à une
+demande d’aide en l’absence de double incrimination, un État
+Partie requis tient compte de l’objet de la présente Convention tel
+qu’énoncé à l’article premier;
+b) Les États Parties peuvent invoquer l’absence de double
+incrimination pour refuser de fournir une aide en application du
+présent article. Toutefois, un État Partie requis, lorsque cela est
+compatible avec les concepts fondamentaux de son système
+juridique, accorde l’aide demandée si elle n’implique pas de
+mesures coercitives. Cette aide peut être refusée lorsque la
+demande porte sur des questions mineures ou des questions pour
+lesquelles la coopération ou l’aide demandée peut être obtenue sur
+le fondement d’autres dispositions de la présente Convention;
+c) Chaque État Partie peut envisager de prendre les
+mesures nécessaires pour lui permettre de fournir une aide plus
+large en application du présent article, en l’absence de double
+incrimination.
+10. Toute personne détenue ou purgeant une peine sur le
+territoire d’un État Partie, dont la présence est requise dans un
+autre État Partie à des fins d’identification ou de témoignage ou
+pour qu’elle apporte de toute autre manière son concours à
+l’obtention de preuves dans le cadre d’enquêtes, de poursuites ou
+de procédures judiciaires relatives aux infractions visées par la
+présente Convention, peut faire l’objet d’un transfèrement si les
+conditions ci-après sont réunies:
+a) Ladite personne y consent librement et en toute
+connaissance de cause;
+b) Les autorités compétentes des deux États Parties
+concernés y consentent, sous réserve des conditions que ces États
+Parties peuvent juger appropriées.
+
+11. Aux fins du paragraphe 10 du présent article:
+a) L’État Partie vers lequel la personne est transférée a le
+pouvoir et l’obligation de la garder en détention, sauf demande ou
+autorisation contraire de la part de l’État Partie à partir duquel elle
+a été transférée;
+b) L’État Partie vers lequel la personne est transférée
+s’acquitte sans retard de l’obligation de la remettre à la garde de
+l’État Partie à partir duquel elle a été transférée, conformément à
+
+
+
+
+
+
+
+<!-- Page 27 -->
+
+
+
+
+
+
+
+ce qui aura été convenu au préalable ou autrement décidé par les
+autorités compétentes des deux États Parties;
+c) L’État Partie vers lequel la personne est transférée ne
+peut exiger de l’État Partie à partir duquel elle a été transférée
+qu’il engage une procédure d’extradition pour qu’elle lui soit
+remise;
+d) Il est tenu compte de la période que la personne a
+passée en détention dans l’État Partie vers lequel elle a été
+transférée aux fins du décompte de la peine à purger dans l’État
+Partie à partir duquel elle a été transférée.
+12. À moins que l’État Partie à partir duquel une personne
+doit être transférée en vertu des paragraphes 10 et 11 du présent
+article ne donne son accord, ladite personne, quelle que soit sa
+nationalité, n’est pas poursuivie, détenue, punie ni soumise à
+d’autres restrictions de sa liberté personnelle sur le territoire de
+l’État Partie vers lequel elle est transférée à raison d’actes,
+d’omissions ou de condamnations antérieurs à son départ du
+territoire de l’État Partie à partir duquel elle a été transférée.
+13. Chaque État Partie désigne une autorité centrale qui a
+la responsabilité et le pouvoir de recevoir les demandes d’entraide
+judiciaire et, soit de les exécuter, soit de les transmettre aux
+autorités compétentes pour exécution. Si un État Partie a une
+région ou un territoire spécial doté d’un système d’entraide
+judiciaire différent, il peut désigner une autorité centrale distincte
+qui aura la même fonction pour ladite région ou ledit territoire.
+Les autorités centrales assurent l’exécution ou la transmission
+rapide et en bonne et due forme des demandes reçues. Si l’autorité
+centrale transmet la demande à une autorité compétente pour
+exécution, elle encourage l’exécution rapide et en bonne et due
+forme de la demande par l’autorité compétente. L’autorité centrale
+désignée à cette fin fait l’objet d’une notification adressée au
+Secrétaire général de l’Organisation des Nations Unies au moment
+où chaque État Partie dépose son instrument de ratification,
+d’acceptation ou d’approbation ou d’adhésion à la présente
+Convention. Les demandes d’entraide judiciaire et toute
+communication y relative sont transmises aux autorités centrales
+désignées par les États Parties. La présente disposition s’entend
+sans préjudice du droit de tout État Partie d’exiger que ces
+demandes et communications lui soient adressées par la voie
+diplomatique et, en cas d’urgence, si les États Parties en
+conviennent, par l’intermédiaire de l’Organisation internationale
+de police criminelle, si cela est possible.
+14. Les demandes sont adressées par écrit ou, si possible,
+par tout autre moyen pouvant produire un document écrit, dans
+une langue acceptable pour l’État Partie requis, dans des
+conditions permettant audit État Partie d’en établir l’authenticité.
+La ou les langues acceptables pour chaque État Partie sont
+notifiées au Secrétaire général de l’Organisation des Nations
+Unies au moment où ledit État Partie dépose son instrument de
+ratification, d’acceptation ou d’approbation ou d’adhésion à la
+présente Convention. En cas d’urgence et si les États Parties en
+conviennent, les demandes peuvent être faites oralement mais
+doivent être confirmées sans délai par écrit.
+15. Une demande d’entraide judiciaire doit contenir les
+renseignements suivants:
+
+
+
+
+<!-- Page 28 -->
+
+
+
+
+
+
+
+a) La désignation de l’autorité dont émane la demande;
+b) L’objet et la nature de l’enquête, des poursuites ou de
+la procédure judiciaire auxquelles se rapporte la demande, ainsi
+que le nom et les fonctions de l’autorité qui en est chargée;
+c) Un résumé des faits pertinents, sauf pour les demandes
+adressées aux fins de la signification d’actes judiciaires;
+
+d) Une description de l’assistance requise et le détail de
+toute procédure particulière que l’État Partie requérant souhaite
+voir appliquée;
+e) Si possible, l’identité, l’adresse et la nationalité de
+toute personne visée; et
+f) Le but dans lequel le témoignage, les informations ou
+les mesures sont demandés.
+16. L’État Partie requis peut demander un complément
+d’information lorsque cela apparaît nécessaire pour exécuter la
+demande conformément à son droit interne ou lorsque cela peut en
+faciliter l’exécution.
+
+17. Toute demande est exécutée conformément au droit
+interne de l’État Partie requis et, dans la mesure où cela ne
+contrevient pas au droit interne de l’État Partie requis et lorsque
+cela est possible, conformément aux procédures spécifiées dans la
+demande.
+18. Lorsque cela est possible et conforme aux principes
+fondamentaux du droit interne, si une personne qui se trouve sur le
+territoire d’un État Partie doit être entendue comme témoin ou
+comme expert par les autorités judiciaires d’un autre État Partie, le
+premier État Partie peut, à la demande de l’autre, autoriser son
+audition par vidéoconférence s’il n’est pas possible ou souhaitable
+qu’elle comparaisse en personne sur le territoire de l’État Partie
+requérant. Les États Parties peuvent convenir que l’audition sera
+conduite par une autorité judiciaire de l’État Partie requérant et
+qu’une autorité judiciaire de l’État Partie requis y assistera.
+19. L’État Partie requérant ne communique ni n’utilise les
+informations ou les éléments de preuve fournis par l’État Partie
+requis pour des enquêtes, poursuites ou procédures judiciaires
+autres que celles visées dans la demande sans le consentement
+préalable de l’État Partie requis. Rien dans le présent paragraphe
+n’empêche l’État Partie requérant de révéler, lors de la procédure,
+des informations ou des éléments de preuve à décharge. Dans ce
+cas, l’État Partie requérant avise l’État Partie requis avant la
+révélation et, s’il lui en est fait la demande, consulte ce dernier. Si,
+dans un cas exceptionnel, une notification préalable n’est pas
+possible, l’État Partie requérant informe sans retard l’État Partie
+requis de la révélation.
+20. L’État Partie requérant peut exiger que l’État Partie
+requis garde le secret sur la demande et sa teneur, sauf dans la
+mesure nécessaire pour l’exécuter. Si l’État Partie requis ne peut
+satisfaire à cette exigence, il en informe sans délai l’État Partie
+requérant.
+21. L’entraide judiciaire peut être refusée:
+a) Si la demande n’est pas faite conformément aux
+dispositions du présent article;
+
+
+
+
+
+<!-- Page 29 -->
+
+
+
+
+
+
+
+b) Si l’État Partie requis estime que l’exécution de la
+demande est susceptible de porter atteinte à sa souveraineté, à sa
+sécurité, à son ordre public ou à d’autres intérêts essentiels;
+c) Au cas où le droit interne de l’État Partie requis
+interdirait à ses autorités de prendre les mesures demandées s’il
+s’agissait d’une infraction analogue ayant fait l’objet d’une
+enquête, de poursuites ou d’une procédure judiciaire dans le cadre
+de sa propre compétence;
+d) Au cas où il serait contraire au système juridique de
+l’État Partie requis concernant l’entraide judiciaire d’accepter la
+demande.
+22. Les États Parties ne peuvent refuser une demande
+d’entraide judiciaire au seul motif que l’infraction est considérée
+comme touchant aussi à des questions fiscales.
+23. Tout refus d’entraide judiciaire doit être motivé.
+
+24. L’État Partie requis exécute la demande d’entraide
+judiciaire aussi promptement que possible et tient compte dans
+toute la mesure possible de tous délais suggérés par l’État Partie
+requérant et qui sont motivés, de préférence dans la demande.
+L’État Partie requérant peut présenter des demandes raisonnables
+d’informations sur l’état d’avancement des mesures prises par
+l’État Partie requis pour faire droit à sa demande. L’État Partie
+requis répond aux demandes raisonnables de l’État Partie
+requérant concernant les progrès réalisés dans l’exécution de la
+demande. Quand l’entraide demandée n’est plus nécessaire, l’État
+Partie requérant en informe promptement l’État Partie requis.
+25. L’entraide judiciaire peut être différée par l’État Partie
+requis au motif qu’elle entraverait une enquête, des poursuites ou
+une procédure judiciaire en cours.
+26. Avant de refuser une demande en vertu du paragraphe
+21 du présent article ou d’en différer l’exécution en vertu du
+paragraphe 25, l’État Partie requis étudie avec l’État Partie
+requérant la possibilité d’accorder l’entraide sous réserve des
+conditions qu’il juge nécessaires. Si l’État Partie requérant accepte
+l’entraide sous réserve de ces conditions, il se conforme à ces
+dernières.
+27. Sans préjudice de l’application du paragraphe 12 du
+présent article, un témoin, un expert ou une autre personne qui, à
+la demande de l’État Partie requérant, consent à déposer au cours
+d’une procédure ou à collaborer à une enquête, à des poursuites ou
+à une procédure judiciaire sur le territoire de l’État Partie
+requérant ne sera pas poursuivi, détenu, puni ni soumis à d’autres
+restrictions de sa liberté personnelle sur ce territoire à raison
+d’actes, d’omissions ou de condamnations antérieurs à son départ
+du territoire de l’État Partie requis. Cette immunité cesse lorsque
+le témoin, l’expert ou ladite personne ayant eu, pendant une
+période de 15 jours consécutifs ou toute autre période convenue
+par les États Parties à compter de la date à laquelle ils ont été
+officiellement informés que leur présence n’était plus requise par
+les autorités judiciaires, la possibilité de quitter le territoire de
+l’État Partie requérant, y sont néanmoins demeurés volontairement
+ou, l’ayant quitté, y sont revenus de leur plein gré.
+
+
+
+
+
+
+<!-- Page 30 -->
+
+
+
+
+
+
+
+28. Les frais ordinaires encourus pour exécuter une
+demande sont à la charge de l’État Partie requis, à moins qu’il
+n’en soit convenu autrement entre les États Parties concernés.
+Lorsque des dépenses importantes ou extraordinaires sont ou se
+révèlent ultérieurement nécessaires pour exécuter la demande, les
+États Parties se consultent pour fixer les conditions selon
+lesquelles la demande sera exécutée, ainsi que la manière dont les
+frais seront assumés.
+29. L’État Partie requis:
+a) Fournit à l’État Partie requérant copie des dossiers,
+documents ou renseignements administratifs en sa possession et
+auxquels, en vertu de son droit interne, le public a accès;
+b) Peut, à son gré, fournir à l’État Partie requérant
+intégralement, en partie ou aux conditions qu’il estime
+appropriées, copie de tous dossiers, documents ou renseignements
+administratifs en sa possession et auxquels, en vertu de son droit
+interne, le public n’a pas accès.
+30. Les États Parties envisagent, s’il y a lieu, la possibilité
+de conclure des accords ou des arrangements bilatéraux ou
+multilatéraux qui servent les objectifs du présent article, mettent
+en pratique ses dispositions ou les renforcent.
+
+Article 47
+Transfert des procédures pénales
+Les États Parties envisagent la possibilité de se transférer
+mutuellement les procédures relatives à la poursuite d’une
+infraction établie conformément à la présente Convention dans les
+cas où ce transfert est jugé nécessaire dans l’intérêt d’une bonne
+administration de la justice et, en particulier lorsque plusieurs
+juridictions sont concernées, en vue de centraliser les poursuites.
+
+Article 48
+Coopération entre les services de détection et de répression
+1. Les États Parties coopèrent étroitement, conformément
+à leurs systèmes juridiques et administratifs respectifs, en vue de
+renforcer l’efficacité de la détection et de la répression des
+infractions visées par la présente Convention. En particulier, les
+États Parties prennent des mesures efficaces pour:
+a) Renforcer les voies de communication entre leurs
+autorités, organismes et services compétents et, si nécessaire, en
+établir afin de faciliter l’échange sûr et rapide d’informations
+concernant tous les aspects des infractions visées par la présente
+Convention, y compris, si les États Parties concernés le jugent
+approprié, les liens avec d’autres activités criminelles;
+b) Coopérer avec d’autres États Parties, s’agissant des
+infractions visées par la présente Convention, dans la conduite
+d’enquêtes concernant les points suivants:
+i) Identité et activités des personnes soupçonnées
+d’implication dans lesdites infractions, lieu où elles se
+trouvent ou lieu où se trouvent les autres personnes
+concernées;
+ii) Mouvement du produit du crime ou des biens
+provenant de la commission de ces infractions;
+
+
+
+
+
+
+<!-- Page 31 -->
+
+
+
+
+
+
+
+iii) Mouvement des biens, des matériels ou d’autres
+instruments utilisés ou destinés à être utilisés dans la
+commission de ces infractions;
+c) Fournir, lorsqu’il y a lieu, les pièces ou quantités de
+substances nécessaires à des fins d’analyse ou d’enquête;
+d) Échanger, lorsqu’il y a lieu, avec d’autres États Parties
+des informations sur les moyens et procédés spécifiques employés
+pour commettre les infractions visées par la présente Convention,
+tels que l’usage de fausses identités, de documents contrefaits,
+modifiés ou falsifiés ou d’autres moyens de dissimulation des
+activités;
+e) Faciliter une coordination efficace entre leurs autorités,
+organismes et services compétents et favoriser l’échange de
+personnel et d’experts, y compris, sous réserve de l’existence
+d’accords ou d’arrangements bilatéraux entre les États Parties
+concernés, le détachement d’agents de liaison;
+f) Échanger des informations et coordonner les mesures
+administratives et autres prises, comme il convient, pour détecter
+au plus tôt les infractions visées par la présente Convention.
+
+2. Afin de donner effet à la présente Convention, les États
+Parties envisagent de conclure des accords ou des arrangements
+bilatéraux ou multilatéraux prévoyant une coopération directe
+entre leurs services de détection et de répression et, lorsque de tels
+accords ou arrangements existent déjà, de les modifier. En
+l’absence de tels accords ou arrangements entre les États Parties
+concernés, ces derniers peuvent se baser sur la présente
+Convention pour instaurer une coopération en matière de détection
+et de répression concernant les infractions visées par la présente
+Convention. Chaque fois que cela est approprié, les États Parties
+utilisent pleinement les accords ou arrangements, y compris les
+organisations internationales ou régionales, pour renforcer la
+coopération entre leurs services de détection et de répression.
+3. Les États Parties s’efforcent de coopérer, dans la
+mesure de leurs moyens, pour lutter contre les infractions visées
+par la présente Convention commises au moyen de techniques
+modernes.
+Article 49
+Enquêtes conjointes
+Les États Parties envisagent de conclure des accords ou des
+arrangements bilatéraux ou multilatéraux en vertu desquels, pour
+les affaires qui font l’objet d’enquêtes, de poursuites ou de
+procédures judiciaires dans un ou plusieurs États, les autorités
+compétentes concernées peuvent établir des instances d’enquête
+conjointes. En l’absence de tels accords ou arrangements, des
+enquêtes conjointes peuvent être décidées au cas par cas. Les États
+Parties concernés veillent à ce que la souveraineté de l’État Partie
+sur le territoire duquel l’enquête doit se dérouler soit pleinement
+respectée.
+Article 50
+Techniques d’enquête spéciales
+1. Afin de combattre efficacement la corruption, chaque
+État Partie, dans la mesure où les principes fondamentaux de son
+
+
+
+
+
+
+<!-- Page 32 -->
+
+
+
+
+
+
+
+système juridique interne le permettent et conformément aux
+conditions prescrites par son droit interne, prend, dans la limite de
+ses moyens, les mesures nécessaires pour que ses autorités
+compétentes puissent recourir de façon appropriée, sur son
+territoire, à des livraisons surveillées et, lorsqu’il le juge opportun,
+à d’autres techniques d’enquête spéciales, telles que la
+surveillance électronique ou d’autres formes de surveillance et les
+opérations d’infiltration, et pour que les preuves recueillies au
+moyen de ces techniques soient admissibles devant ses tribunaux.
+2. Aux fins des enquêtes sur les infractions visées par la
+présente Convention, les États Parties sont encouragés à conclure,
+si nécessaire, des accords ou des arrangements bilatéraux ou
+multilatéraux appropriés pour recourir aux techniques d’enquête
+spéciales dans le cadre de la coopération internationale. Ces
+accords ou arrangements sont conclus et appliqués dans le plein
+respect du principe de l’égalité souveraine des États et ils sont mis
+en œuvre dans le strict respect des dispositions qu’ils contiennent.
+3. En l’absence d’accords ou d’arrangements visés au
+paragraphe 2 du présent article, les décisions de recourir à des
+techniques d’enquête spéciales au niveau international sont prises
+au cas par cas et peuvent, si nécessaire, tenir compte d’ententes et
+d’arrangements financiers quant à l’exercice de leur compétence
+par les États Parties concernés.
+4. Les livraisons surveillées auxquelles il est décidé de
+recourir au niveau international peuvent inclure, avec le
+consentement des États Parties concernés, des méthodes telles que
+l’interception de marchandises ou de fonds et l’autorisation de la
+poursuite de leur acheminement, sans altération ou après
+soustraction ou remplacement de la totalité ou d’une partie de ces
+marchandises ou fonds.
+Chapitre V. Recouvrement d’avoirs
+
+Article 51
+Disposition générale
+1. La restitution d’avoirs en application du présent
+chapitre est un principe fondamental de la présente Convention, et
+les États Parties s’accordent mutuellement la coopération et
+l’assistance la plus étendue à cet égard.
+
+Article 52
+Prévention et détection des transferts du produit du crime
+1. Sans préjudice de l’article 14 de la présente
+Convention, chaque État Partie prend, conformément à son droit
+interne, les mesures nécessaires pour que les institutions
+financières relevant de sa juridiction soient tenues de vérifier
+l’identité des clients et de prendre des mesures raisonnables pour
+déterminer l’identité des ayants droit économiques des fonds
+déposés sur de gros comptes, ainsi que de soumettre à une
+surveillance accrue les comptes que des personnes qui exercent,
+ou ont exercé, des fonctions publiques importantes et des membres
+de leur famille et de leur proche entourage cherchent à ouvrir ou
+détiennent directement ou cherchent à faire ouvrir ou font détenir
+par un intermédiaire. Cette surveillance est raisonnablement
+conçue de façon à détecter les opérations suspectes afin de les
+
+
+
+
+
+<!-- Page 33 -->
+
+
+
+
+
+
+
+signaler aux autorités compétentes et ne devrait pas être
+interprétée comme un moyen de décourager les institutions
+financières – ou de leur interdire – d’entretenir des relations
+d’affaires avec des clients légitimes.
+2. Afin de faciliter l’application des mesures prévues au
+paragraphe 1 du présent article, chaque État Partie, conformément
+à son droit interne et en s’inspirant des initiatives pertinentes
+prises par les organisations régionales, interrégionales et
+multilatérales pour lutter contre le blanchiment d’argent:
+a) Publie des lignes directrices concernant les types de
+personne physique ou morale sur les comptes desquels les
+institutions financières relevant de sa juridiction devront exercer
+une surveillance accrue, les types de compte et d’opération
+auxquels elles devront prêter une attention particulière, ainsi que
+les mesures à prendre concernant l’ouverture de tels comptes, leur
+tenue et l’enregistrement des opérations; et
+b) S’il y a lieu, notifie aux institutions financières relevant
+de sa juridiction, à la demande d’un autre État Partie ou de sa
+propre initiative, l’identité des personnes physiques ou morales
+dont elles devront surveiller plus strictement les comptes, en sus
+des personnes que les institutions financières pourront par ailleurs
+identifier.
+3. Dans le contexte de l’alinéa a) du paragraphe 2 du
+présent article, chaque État Partie applique des mesures afin que
+ses institutions financières tiennent des états adéquats, pendant
+une durée appropriée, des comptes et opérations impliquant les
+personnes mentionnées au paragraphe 1 du présent article,
+lesquels états devraient contenir, au minimum, des renseignements
+sur l’identité du client ainsi que, dans la mesure du possible, de
+l’ayant droit économique.
+4. Dans le but de prévenir et de détecter les transferts du
+produit d’infractions établies conformément à la présente
+Convention, chaque État Partie applique des mesures appropriées
+et efficaces pour empêcher, avec l’aide de ses organismes de
+réglementation et de contrôle, l’établissement de banques qui
+n’ont pas de présence physique et qui ne sont pas affiliées à un
+groupe financier réglementé. En outre, les États Parties peuvent
+envisager d’exiger de leurs institutions financières qu’elles
+refusent d’établir ou de poursuivre des relations de banque
+correspondante avec de telles institutions et se gardent d’établir
+des relations avec des institutions financières étrangères
+permettant que leurs comptes soient utilisés par des banques qui
+n’ont pas de présence physique et qui ne sont pas affiliées à un
+groupe financier réglementé.
+5. Chaque État Partie envisage d’établir, conformément à
+son droit interne, pour les agents publics appropriés, des systèmes
+efficaces de divulgation de l’information financière et prévoit des
+sanctions adéquates en cas de non-respect. Chaque État Partie
+envisage également de prendre les mesures nécessaires pour
+permettre à ses autorités compétentes de partager cette
+information avec les autorités compétentes d’autres États Parties
+lorsque celles-ci en ont besoin pour enquêter sur le produit
+d’infractions établies conformément à la présente Convention, le
+réclamer et le recouvrer.
+
+
+
+
+
+<!-- Page 34 -->
+
+
+
+
+
+
+
+6. Chaque État Partie envisage de prendre, conformément
+à son droit interne, les mesures nécessaires pour que ses agents
+publics appropriés ayant un droit ou une délégation de signature
+ou tout autre pouvoir sur un compte financier domicilié dans un
+pays étranger soient tenus de le signaler aux autorités compétentes
+et de conserver des états appropriés concernant ces comptes. Il
+prévoit également des sanctions appropriées en cas de non-respect
+de cette obligation.
+Article 53
+Mesures pour le recouvrement direct de biens
+Chaque État Partie, conformément à son droit interne:
+
+a) Prend les mesures nécessaires pour permettre à un autre
+État Partie d’engager devant ses tribunaux une action civile en vue
+de voir reconnaître l’existence d’un droit de propriété sur des
+biens acquis au moyen d’une infraction établie conformément à la
+présente Convention;
+b) Prend les mesures nécessaires pour permettre à ses
+tribunaux d’ordonner aux auteurs d’infractions établies
+conformément à la présente Convention de verser une réparation
+ou des dommages-intérêts à un autre État Partie ayant subi un
+préjudice du fait de telles infractions; et
+c) Prend les mesures nécessaires pour permettre à ses
+tribunaux ou autorités compétentes, lorsqu’ils doivent décider
+d’une confiscation, de reconnaître le droit de propriété légitime
+revendiqué par un autre État Partie sur des biens acquis au moyen
+d’une infraction établie conformément à la présente Convention.
+Article 54
+Mécanismes de recouvrement de biens
+par la coopération internationale aux fins de confiscation
+
+1. Afin d’assurer l’entraide judiciaire prévue à l’article 55
+de la présente Convention concernant les biens acquis au moyen
+d’une infraction établie conformément à la présente Convention
+ou utilisés pour une telle infraction, chaque État Partie,
+conformément à son droit interne:
+a) Prend les mesures nécessaires pour permettre à ses
+autorités compétentes de donner effet à une décision de
+confiscation d’un tribunal d’un autre État Partie;
+b) Prend les mesures nécessaires pour permettre à ses
+autorités compétentes, lorsqu’elles ont compétence en l’espèce,
+d’ordonner la confiscation de tels biens d’origine étrangère, en se
+prononçant sur une infraction de blanchiment d’argent ou une
+autre infraction relevant de sa compétence, ou par d’autres
+procédures autorisées par son droit interne; et
+c) Envisage de prendre les mesures nécessaires pour
+permettre la confiscation de tels biens en l’absence de
+condamnation pénale lorsque l’auteur de l’infraction ne peut être
+poursuivi pour cause de décès, de fuite ou d’absence ou dans
+d’autres cas appropriés.
+2. Afin d’accorder l’entraide judiciaire qui lui est
+demandée en application du paragraphe 2 de l’article 55, chaque
+État Partie, conformément à son droit interne:
+
+
+
+
+
+
+<!-- Page 35 -->
+
+
+
+
+
+
+
+a) Prend les mesures nécessaires pour permettre à ses
+autorités compétentes de geler ou de saisir des biens, sur décision
+d’un tribunal ou d’une autorité compétente d’un État Partie
+requérant ordonnant le gel ou la saisie, qui donne à l’État Partie
+requis un motif raisonnable de croire qu’il existe des raisons
+suffisantes de prendre de telles mesures et que les biens feront
+ultérieurement l’objet d’une ordonnance de confiscation aux fins
+de l’alinéa a) du paragraphe 1 du présent article;
+b) Prend les mesures nécessaires pour permettre à ses
+autorités compétentes de geler ou de saisir des biens sur la base
+d’une demande donnant à l’État Partie un motif raisonnable de
+croire qu’il existe des raisons suffisantes de prendre de telles
+mesures et que les biens feront ultérieurement l’objet d’une
+ordonnance de confiscation aux fins de l’alinéa a) du paragraphe 1
+du présent article; et
+c) Envisage de prendre des mesures supplémentaires pour
+permettre à ses autorités compétentes de préserver les biens en vue
+de leur confiscation, par exemple sur la base d’une arrestation ou
+d’une inculpation intervenue à l’étranger en relation avec leur
+acquisition.
+Article 55
+Coopération internationale aux fins de confiscation
+1. Dans toute la mesure possible dans le cadre de son
+système juridique interne, un État Partie qui a reçu d’un autre État
+Partie ayant compétence pour connaître d’une infraction établie
+conformément à la présente Convention une demande de
+confiscation du produit du crime, des biens, des matériels ou
+autres instruments visés au paragraphe 1 de l’article 31 de la
+présente Convention, qui sont situés sur son territoire:
+a) Transmet la demande à ses autorités compétentes en
+vue de faire prononcer une décision de confiscation et, si celle-ci
+intervient, de la faire exécuter; ou
+b) Transmet à ses autorités compétentes, afin qu’elle soit
+exécutée dans les limites de la demande, la décision de
+confiscation prise par un tribunal situé sur le territoire de l’État
+Partie requérant conformément au paragraphe 1 de l’article 31 et à
+l’alinéa a) du paragraphe 1 de l’article 54 de la présente
+Convention, pour autant qu’elle porte sur le produit du crime, les
+biens, les matériels ou autres instruments visés au paragraphe 1 de
+l’article 31, qui sont situés sur son territoire.
+2. Lorsqu’une demande est faite par un autre État Partie
+qui a compétence pour connaître d’une infraction établie
+conformément à la présente Convention, l’État Partie requis prend
+des mesures pour identifier, localiser et geler ou saisir le produit
+du crime, les biens, les matériels ou les autres instruments visés au
+paragraphe 1 de l’article 31 de la présente Convention, en vue
+d’une confiscation ultérieure à ordonner soit par l’État Partie
+requérant soit, comme suite à une demande formulée en vertu du
+paragraphe 1 du présent article, par l’État Partie requis.
+3. Les dispositions de l’article 46 de la présente
+Convention s’appliquent mutatis mutandis au présent article.
+Outre les informations visées au paragraphe 15 de l’article 46, les
+demandes faites en application du présent article contiennent:
+
+
+
+
+
+
+<!-- Page 36 -->
+
+
+
+
+
+
+
+a) Lorsque la demande relève de l’alinéa a) du paragraphe
+1 du présent article, une description des biens à confisquer, y
+compris, dans la mesure du possible, le lieu où ceux-ci se trouvent
+et, selon qu’il convient, leur valeur estimative et un exposé des
+faits sur lesquels se fonde l’État Partie requérant qui soit suffisant
+pour permettre à l’État Partie requis de demander une décision de
+confiscation sur le fondement de son droit interne;
+b) Lorsque la demande relève de l’alinéa b) du paragraphe
+1 du présent article, une copie légalement admissible de la
+décision de confiscation émanant de l’État Partie requérant sur
+laquelle la demande est fondée, un exposé des faits et des
+informations indiquant dans quelles limites il est demandé
+d’exécuter la décision, une déclaration spécifiant les mesures
+prises par l’État Partie requérant pour aviser comme il convient les
+tiers de bonne foi et garantir une procédure régulière, et une
+déclaration selon laquelle la décision de confiscation est
+définitive;
+c) Lorsque la demande relève du paragraphe 2 du présent
+article, un exposé des faits sur lesquels se fonde l’État Partie
+requérant et une description des mesures demandées ainsi que,
+lorsqu’elle est disponible, une copie légalement admissible de la
+décision sur laquelle la demande est fondée.
+4. Les décisions ou mesures prévues aux paragraphes 1 et
+2 du présent article sont prises par l’État Partie requis
+conformément à son droit interne et sous réserve des dispositions
+dudit droit, et conformément à ses règles de procédure ou à tout
+accord ou arrangement bilatéral ou multilatéral le liant à l’État
+Partie requérant.
+5. Chaque État Partie remet au Secrétaire général de
+l’Organisation des Nations Unies une copie de ses lois et
+règlements qui donnent effet au présent article ainsi qu’une copie
+de toute modification ultérieurement apportée à ces lois et
+règlements ou une description de ces lois, règlements et
+modifications ultérieures.
+6. Si un État Partie décide de subordonner l’adoption des
+mesures visées aux paragraphes 1 et 2 du présent article à
+l’existence d’un traité en la matière, il considère la présente
+Convention comme une base conventionnelle nécessaire et
+suffisante.
+7. La coopération en vertu du présent article peut aussi
+être refusée ou les mesures conservatoires peuvent être levées si
+l’État Partie requis ne reçoit pas en temps voulu des preuves
+suffisantes ou si le bien est de valeur minime.
+8. Avant de lever toute mesure conservatoire prise en
+application du présent article, l’État Partie requis donne, si
+possible, à l’État Partie requérant la faculté de présenter ses
+arguments en faveur du maintien de la mesure.
+9. Les dispositions du présent article ne doivent pas être
+interprétées comme portant atteinte aux droits des tiers de bonne
+foi.
+
+
+
+
+
+
+
+
+
+<!-- Page 37 -->
+
+
+
+
+
+
+
+Article 56
+Coopération spéciale
+Sans préjudice de son droit interne, chaque État Partie
+s’efforce de prendre des mesures lui permettant, sans préjudice de
+ses propres enquêtes, poursuites ou procédures judiciaires, de
+communiquer, sans demande préalable, à un autre État Partie des
+informations sur le produit d’infractions établies conformément à
+la présente Convention lorsqu’il considère que la divulgation de
+ces informations pourrait aider ledit État Partie à engager ou
+mener une enquête, des poursuites ou une procédure judiciaire ou
+pourrait déboucher sur la présentation par cet État Partie d’une
+demande en vertu du présent chapitre de la Convention.
+Article 57
+Restitution et disposition des avoirs
+1. Un État Partie ayant confisqué des biens en application
+de l’article 31 ou 55 de la présente Convention en dispose, y
+compris en les restituant à leurs propriétaires légitimes antérieurs,
+en application du paragraphe 3 du présent article et conformément
+aux dispositions de la présente Convention et à son droit interne.
+
+2. Chaque État Partie adopte, conformément aux principes
+fondamentaux de son droit interne, les mesures législatives et
+autres nécessaires pour permettre à ses autorités compétentes de
+restituer les biens confisqués, lorsqu’il agit à la demande d’un
+autre État Partie, conformément à la présente Convention, et
+compte tenu des droits des tiers de bonne foi.
+3. Conformément aux articles 46 et 55 de la présente
+Convention et aux paragraphes 1 et 2 du présent article, l’État
+Partie requis:
+a) Dans les cas de soustraction de fonds publics ou de
+blanchiment de fonds publics soustraits, visés aux articles 17 et 23
+de la présente Convention, lorsque la confiscation a été exécutée
+conformément à l’article 55 et sur la base d’un jugement définitif
+rendu dans l’État Partie requérant, exigence à laquelle il peut
+renoncer, restitue les biens confisqués à l’État Partie requérant;
+b) Dans le cas du produit de toute autre infraction visée
+par la présente Convention, lorsque la confiscation a été exécutée
+conformément à l’article 55 de la présente Convention et sur la
+base d’un jugement définitif dans l’État Partie requérant, exigence
+à laquelle il peut renoncer, restitue les biens confisqués à l’État
+Partie requérant, lorsque ce dernier fournit des preuves
+raisonnables de son droit de propriété antérieur sur lesdits biens à
+l’État Partie requis ou lorsque ce dernier reconnaît un préjudice à
+l’État Partie requérant comme base de restitution des biens
+confisqués;
+c) Dans tous les autres cas, envisage à titre prioritaire de
+restituer les biens confisqués à l’État Partie requérant, de les
+restituer à ses propriétaires légitimes antérieurs ou de
+dédommager les victimes de l’infraction.
+4. S’il y a lieu, et sauf si les États Parties en décident
+autrement, l’État Partie requis peut déduire des dépenses
+raisonnables encourues pour les enquêtes, poursuites ou
+procédures judiciaires ayant abouti à la restitution ou à la
+disposition des biens confisqués en application du présent article.
+
+
+
+
+
+<!-- Page 38 -->
+
+
+
+
+
+
+
+5. S’il y a lieu, les États Parties peuvent aussi envisager
+en particulier de conclure, au cas par cas, des accords ou des
+arrangements mutuellement acceptables pour la disposition
+définitive des biens confisqués.
+Article 58
+Service de renseignement financier
+
+Les États Parties coopèrent dans le but de prévenir et de
+combattre le transfert du produit des infractions établies
+conformément à la présente Convention, ainsi que de promouvoir
+les moyens de recouvrer ledit produit et, à cette fin, envisagent
+d’établir un service de renseignement financier qui sera chargé de
+recevoir, d’analyser et de communiquer aux autorités compétentes
+des déclarations d’opérations financières suspectes.
+Article 59
+Accords et arrangements bilatéraux et multilatéraux
+Les États Parties envisagent de conclure des accords ou des
+arrangements bilatéraux ou multilatéraux afin de renforcer
+l’efficacité de la coopération internationale instaurée en
+application du présent chapitre de la Convention.
+
+Chapitre VI. Assistance technique et échange
+d’informations
+
+Article 60
+Formation et assistance technique
+
+1. Chaque État Partie établit, développe ou améliore, dans
+la mesure des besoins, des programmes de formation spécifiques à
+l’intention de ses personnels chargés de prévenir et de combattre
+la corruption. Ces programmes pourraient porter notamment sur ce
+qui suit:
+a) Mesures efficaces de prévention, de détection,
+d’investigation, de répression et de lutte dirigées contre la
+corruption, y compris l’utilisation des méthodes de rassemblement
+de preuves et d’investigation;
+b) Renforcement des capacités d’élaboration et de
+planification de stratégies contre la corruption;
+c) Formation des autorités compétentes à l’établissement
+de demandes d’entraide judiciaire qui répondent aux exigences de
+la présente Convention;
+d) Évaluation et renforcement des institutions, de la
+gestion du service public et des finances publiques (y compris des
+marchés publics), et du secteur privé;
+
+e) Prévention des transferts du produit d’infractions
+établies conformément à la présente Convention, lutte contre ces
+transferts, et recouvrement de ce produit;
+f) Détection et gel des transferts du produit d’infractions
+établies conformément à la présente Convention;
+g) Surveillance des mouvements du produit d’infractions
+établies conformément à la présente Convention, ainsi que des
+
+
+
+
+
+
+
+<!-- Page 39 -->
+
+
+
+
+
+
+
+méthodes de transfert, de dissimulation ou de déguisement de ce
+produit;
+h) Mécanismes et méthodes judiciaires et administratifs
+appropriés et efficaces pour faciliter la restitution du produit
+d’infractions établies conformément à la présente Convention;
+i) Méthodes employées pour la protection des victimes et
+des témoins qui coopèrent avec les autorités judiciaires; et
+
+j) Formation aux réglementations nationales et
+internationales et formation linguistique.
+2. Les États Parties envisagent, dans leurs plans et
+programmes nationaux de lutte contre la corruption, de s’accorder,
+selon leurs capacités, l’assistance technique la plus étendue, en
+particulier au profit des pays en développement, y compris un
+appui matériel et une formation dans les domaines mentionnés au
+paragraphe 1 du présent article, ainsi qu’une formation et une
+assistance, et l’échange mutuel de données d’expérience
+pertinentes et de connaissances spécialisées, ce qui facilitera la
+coopération internationale entre États Parties dans les domaines de
+l’extradition et de l’entraide judiciaire.
+3. Les États Parties renforcent, autant qu’il est nécessaire,
+les mesures prises pour optimiser les activités opérationnelles et
+de formation au sein des organisations internationales et
+régionales et dans le cadre des accords ou des arrangements
+bilatéraux et multilatéraux pertinents.
+4. Les États Parties envisagent de s’entraider, sur
+demande, pour mener des évaluations, des études et des
+recherches portant sur les types, les causes, les effets et les coûts
+de la corruption sur leur territoire, en vue d’élaborer, avec la
+participation des autorités compétentes et de la société, des
+stratégies et plans d’action pour combattre la corruption.
+5. Afin de faciliter le recouvrement du produit
+d’infractions établies conformément à la présente Convention, les
+États Parties peuvent coopérer en se communiquant les noms
+d’experts susceptibles d’aider à atteindre cet objectif.
+6. Les États Parties envisagent de mettre à profit des
+conférences et séminaires sous-régionaux, régionaux et
+internationaux pour favoriser la coopération et l’assistance
+technique et stimuler les échanges de vues sur les problèmes
+communs, y compris les problèmes et les besoins particuliers des
+pays en développement et des pays à économie en transition.
+7. Les États Parties envisagent d’établir des mécanismes à
+caractère volontaire en vue de contribuer financièrement, par des
+programmes et projets d’assistance technique, aux efforts des pays
+en développement et des pays à économie en transition pour
+appliquer la présente Convention.
+8. Chaque État Partie envisage de verser des contributions
+volontaires à l’Office des Nations Unies contre la drogue et le
+crime afin d’encourager, par l’intermédiaire de ce dernier, des
+programmes et projets dans les pays en développement visant à
+appliquer la présente Convention.
+
+
+
+
+
+
+
+
+<!-- Page 40 -->
+
+
+
+
+
+
+
+Article 61
+Collecte, échange et analyse d’informations
+sur la corruption
+1. Chaque État Partie envisage d’analyser, en consultation
+avec des experts, les tendances de la corruption sur son territoire
+ainsi que les circonstances dans lesquelles les infractions de
+corruption sont commises.
+2. Les États Parties envisagent de développer et de mettre
+en commun, directement entre eux et par le biais d’organisations
+internationales et régionales, leurs statistiques et leur connaissance
+analytique de la corruption ainsi que des informations en vue
+d’élaborer, dans la mesure du possible, des définitions, normes et
+méthodes communes, et des informations sur les pratiques les
+mieux à même de prévenir et de combattre la corruption.
+3. Chaque État Partie envisage d’assurer le suivi de ses
+politiques et mesures concrètes de lutte contre la corruption et
+d’évaluer leur mise en œuvre et leur efficacité.
+
+Article 62
+Autres mesures: application de la Convention par
+le développement économique et l’assistance technique
+1. Les États Parties prennent des mesures propres à
+assurer l’application optimale de la présente Convention dans la
+mesure du possible, par la coopération internationale, compte tenu
+des effets négatifs de la corruption sur la société en général et sur
+le développement durable en particulier.
+2. Les États Parties font des efforts concrets, dans la
+mesure du possible et en coordination les uns avec les autres ainsi
+qu’avec les organisations régionales et internationales:
+a) Pour développer leur coopération à différents niveaux
+avec les pays en développement, en vue de renforcer la capacité
+de ces derniers à prévenir et combattre la corruption;
+b) Pour accroître l’assistance financière et matérielle
+apportée aux pays en développement afin d’appuyer les efforts
+qu’ils déploient pour prévenir et combattre efficacement la
+corruption et de les aider à appliquer la présente Convention avec
+succès;
+
+c) Pour fournir une assistance technique aux pays en
+développement et aux pays à économie en transition afin de les
+aider à répondre à leurs besoins aux fins de l’application de la
+présente Convention. Pour ce faire, les États Parties s’efforcent de
+verser volontairement des contributions adéquates et régulières à
+un compte établi à cet effet dans le cadre d’un mécanisme de
+financement des Nations Unies. Les États Parties peuvent aussi
+envisager en particulier, conformément à leur droit interne et aux
+dispositions de la présente Convention, de verser à ce compte un
+pourcentage des fonds ou de la valeur correspondante du produit
+du crime ou des biens confisqués conformément aux dispositions
+de la présente Convention;
+d) Pour encourager et amener d’autres États et des
+institutions financières, selon qu’il convient, à s’associer aux
+efforts qu’ils déploient conformément au présent article,
+notamment en faisant bénéficier les pays en développement de
+
+
+
+
+
+<!-- Page 41 -->
+
+
+
+
+
+
+
+davantage de programmes de formation et de matériel moderne
+afin de les aider à atteindre les objectifs de la présente
+Convention.
+3. Autant que possible, ces mesures sont prises sans
+préjudice des engagements existants en matière d’aide extérieure
+ou d’autres arrangements de coopération financière aux niveaux
+bilatéral, régional ou international.
+4. Les États Parties peuvent conclure des accords ou des
+arrangements bilatéraux ou multilatéraux sur l’aide matérielle et
+logistique, en tenant compte des arrangements financiers
+nécessaires pour assurer l’efficacité des moyens de coopération
+internationale prévus par la présente Convention et pour prévenir,
+détecter et combattre la corruption.
+
+Chapitre VII. Mécanismes d’application
+
+Article 63
+Conférence des États Parties à la Convention
+1. Une Conférence des États Parties à la Convention est
+instituée pour améliorer la capacité des États Parties à atteindre les
+objectifs énoncés dans la présente Convention et renforcer leur
+coopération à cet effet ainsi que pour promouvoir et examiner
+l’application de la présente Convention.
+2. Le Secrétaire général de l’Organisation des Nations
+Unies convoquera la Conférence des États Parties au plus tard un
+an après l’entrée en vigueur de la présente Convention. Par la
+suite, la Conférence des États Parties tiendra des réunions
+ordinaires conformément au règlement intérieur qu’elle aura
+adopté.
+3. La Conférence des États Parties adopte un règlement
+intérieur et des règles régissant le fonctionnement des activités
+énoncées dans le présent article, y compris des règles concernant
+l’admission et la participation d’observateurs et le financement
+des dépenses encourues au titre de ces activités.
+4. La Conférence des États Parties arrête des activités, des
+procédures et des méthodes de travail en vue d’atteindre les
+objectifs énoncés au paragraphe 1 du présent article, notamment:
+
+a) Elle facilite les activités menées par les États Parties en
+vertu des articles 60 et 62 et des chapitres II à V de la présente
+Convention, y compris en encourageant la mobilisation de
+contributions volontaires;
+b) Elle facilite l’échange d’informations entre États
+Parties sur les caractéristiques et tendances de la corruption et les
+pratiques efficaces pour la prévenir et la combattre et pour
+restituer le produit du crime, notamment par la publication des
+informations pertinentes visées dans le présent article;
+c) Elle coopère avec les organisations et mécanismes
+régionaux et internationaux, et les organisations non
+gouvernementales compétents;
+d) Elle utilise de manière appropriée les informations
+pertinentes produites par d’autres mécanismes internationaux et
+
+
+
+
+
+
+
+<!-- Page 42 -->
+
+
+
+
+
+
+
+régionaux visant à combattre et prévenir la corruption afin d’éviter
+une répétition inutile d’activités;
+e) Elle examine périodiquement l’application de la
+présente Convention par les États Parties;
+f) Elle formule des recommandations en vue d’améliorer
+la présente Convention et son application;
+
+g) Elle prend note des besoins d’assistance technique des
+États Parties en ce qui concerne l’application de la présente
+Convention et recommande les mesures qu’elle peut juger
+nécessaires à cet égard.
+5. Aux fins du paragraphe 4 du présent article, la
+Conférence des États Parties s’enquiert des mesures prises et des
+difficultés rencontrées par les États Parties pour appliquer la
+présente Convention en utilisant les informations que ceux-ci lui
+communiquent et par le biais des mécanismes complémentaires
+d’examen qu’elle pourra établir.
+6. Chaque État Partie communique à la Conférence des
+États Parties, comme celle-ci le requiert, des informations sur ses
+programmes, plans et pratiques ainsi que sur ses mesures
+législatives et administratives visant à appliquer la présente
+Convention. La Conférence des États Parties examine le moyen le
+plus efficace de recevoir des informations et d’y réagir, y compris,
+notamment, d’États Parties et d’organisations internationales
+compétentes. Les contributions reçues d’organisations non
+gouvernementales compétentes, dûment accréditées conformément
+aux procédures devant être arrêtées par la Conférence des États
+Parties, peuvent aussi être pris en compte.
+7. Conformément aux paragraphes 4 à 6 du présent
+article, la Conférence des États Parties crée, si elle le juge
+nécessaire, tout mécanisme ou organe approprié pour faciliter
+l’application effective de la Convention.
+Article 64
+Secrétariat
+1. Le Secrétaire général de l’Organisation des Nations
+Unies fournit les services de secrétariat nécessaires à la
+Conférence des États Parties à la Convention.
+
+2. Le secrétariat:
+a) Aide la Conférence des États Parties à réaliser les
+activités énoncées à l’article 63 de la présente Convention, prend
+des dispositions et fournit les services nécessaires pour les
+sessions de la Conférence des États Parties;
+b) Aide les États Parties, sur leur demande, à fournir des
+informations à la Conférence des États Parties comme le prévoient
+les paragraphes 5 et 6 de l’article 63 de la présente Convention; et
+c) Assure la coordination nécessaire avec le secrétariat
+des organisations régionales et internationales compétentes.
+
+Chapitre VIII. Dispositions finales
+
+
+
+
+
+
+
+
+
+<!-- Page 43 -->
+
+
+
+
+
+
+
+Article 65
+Application de la Convention
+1. Chaque État Partie prend les mesures nécessaires, y
+compris législatives et administratives, conformément aux
+principes fondamentaux de son droit interne, pour assurer
+l’exécution de ses obligations en vertu de la présente Convention.
+2. Chaque État Partie peut prendre des mesures plus
+strictes ou plus sévères que celles qui sont prévues par la présente
+Convention afin de prévenir et de combattre la corruption.
+
+Article 66
+Règlement des différends
+1. Les États Parties s’efforcent de régler les différends
+concernant l’interprétation ou l’application de la présente
+Convention par voie de négociation.
+2. Tout différend entre deux États Parties ou plus
+concernant l’interprétation ou l’application de la présente
+Convention qui ne peut être réglé par voie de négociation dans un
+délai raisonnable est, à la demande de l’un de ces États Parties,
+soumis à l’arbitrage. Si, dans un délai de six mois à compter de la
+date de la demande d’arbitrage, les États Parties ne peuvent
+s’entendre sur l’organisation de l’arbitrage, l’un quelconque
+d’entre eux peut soumettre le différend à la Cour internationale de
+Justice en adressant une requête conformément au Statut de la
+Cour.
+3. Chaque État Partie peut, au moment de la signature, de
+la ratification, de l’acceptation ou de l’approbation de la présente
+Convention ou de l’adhésion à celle-ci, déclarer qu’il ne se
+considère pas lié par le paragraphe 2 du présent article. Les autres
+États Parties ne sont pas liés par le paragraphe 2 du présent article
+envers tout État Partie ayant émis une telle réserve.
+4. Tout État Partie qui a émis une réserve en vertu du
+paragraphe 3 du présent article peut la retirer à tout moment en
+adressant une notification au Secrétaire général de l’Organisation
+des Nations Unies.
+
+Article 67
+Signature, ratification, acceptation, approbation et adhésion
+1. La présente Convention sera ouverte à la signature de
+tous les États du 9 au 11 décembre 2003 à Mérida (Mexique) et,
+par la suite, au Siège de l’Organisation des Nations Unies, à
+New York, jusqu’au 9 décembre 2005.
+2. La présente Convention est également ouverte à la
+signature des organisations régionales d’intégration économique à
+la condition qu’au moins un État membre d’une telle organisation
+l’ait signée conformément au paragraphe 1 du présent article.
+3. La présente Convention est soumise à ratification,
+acceptation ou approbation. Les instruments de ratification,
+d’acceptation ou d’approbation seront déposés auprès du
+Secrétaire général de l’Organisation des Nations Unies. Une
+organisation régionale d’intégration économique peut déposer son
+instrument de ratification, d’acceptation ou d’approbation si au
+moins un de ses États membres l’a fait. Dans cet instrument de
+
+
+
+
+
+
+<!-- Page 44 -->
+
+
+
+
+
+
+
+ratification, d’acceptation ou d’approbation, cette organisation
+déclare l’étendue de sa compétence concernant les questions
+régies par la présente Convention. Elle informe également le
+dépositaire de toute modification pertinente de l’étendue de sa
+compétence.
+4. La présente Convention est ouverte à l’adhésion de tout
+État ou de toute organisation régionale d’intégration économique
+dont au moins un État membre est Partie à la présente Convention.
+Les instruments d’adhésion sont déposés auprès du Secrétaire
+général de l’Organisation des Nations Unies. Au moment de son
+adhésion, une organisation régionale d’intégration économique
+déclare l’étendue de sa compétence concernant les questions
+régies par la présente Convention. Elle informe également le
+dépositaire de toute modification pertinente de l’étendue de sa
+compétence.
+Article 68
+Entrée en vigueur
+1. La présente Convention entrera en vigueur le quatre-
+vingt-dixième jour suivant la date de dépôt du trentième
+instrument de ratification, d’acceptation, d’approbation ou
+d’adhésion. Aux fins du présent paragraphe, aucun des instruments
+déposés par une organisation régionale d’intégration économique
+n’est considéré comme un instrument venant s’ajouter aux
+instruments déjà déposés par les États membres de cette
+organisation.
+2. Pour chaque État ou organisation régionale
+d’intégration économique qui ratifiera, acceptera ou approuvera la
+présente Convention ou y adhérera après le dépôt du trentième
+instrument pertinent, la présente Convention entrera en vigueur le
+trentième jour suivant la date de dépôt de l’instrument pertinent
+par ledit État ou ladite organisation ou à la date à laquelle elle
+entre en vigueur conformément au paragraphe 1 du présent article,
+si celle-ci est postérieure.
+Article 69
+Amendement
+
+1. À l’expiration d’un délai de cinq ans à compter de
+l’entrée en vigueur de la présente Convention, un État Partie peut
+proposer un amendement et le transmettre au Secrétaire général de
+l’Organisation des Nations Unies. Ce dernier communique alors la
+proposition d’amendement aux États Parties et à la Conférence des
+États Parties à la Convention en vue de l’examen de la proposition
+et de l’adoption d’une décision. La Conférence des États Parties
+n’épargne aucun effort pour parvenir à un consensus sur tout
+amendement. Si tous les efforts en ce sens ont été épuisés sans
+qu’un accord soit intervenu, il faudra, en dernier recours, pour que
+l’amendement soit adopté, un vote à la majorité des deux tiers des
+États Parties présents à la Conférence des États Parties et
+exprimant leur vote.
+2. Les organisations régionales d’intégration économique
+disposent, pour exercer, en vertu du présent article, leur droit de
+vote dans les domaines qui relèvent de leur compétence, d’un
+nombre de voix égal au nombre de leurs États membres Parties à
+
+
+
+
+
+
+<!-- Page 45 -->
+
+
+
+
+
+
+
+la présente Convention. Elles n’exercent pas leur droit de vote si
+leurs États membres exercent le leur, et inversement.
+3. Un amendement adopté conformément au paragraphe 1
+du présent article est soumis à ratification, acceptation ou
+approbation des États Parties.
+4. Un amendement adopté conformément au paragraphe 1
+du présent article entrera en vigueur pour un État Partie quatre-
+vingt-dix jours après la date de dépôt par ledit État Partie auprès
+du Secrétaire général de l’Organisation des Nations Unies d’un
+instrument de ratification, d’acceptation ou d’approbation dudit
+amendement.
+5. Un amendement entré en vigueur a force obligatoire à
+l’égard des États Parties qui ont exprimé leur consentement à être
+liés par lui. Les autres États Parties restent liés par les dispositions
+de la présente Convention et tous amendements antérieurs qu’ils
+ont ratifiés, acceptés ou approuvés.
+
+Article 70
+Dénonciation
+1. Un État Partie peut dénoncer la présente Convention
+par notification écrite adressée au Secrétaire général de
+l’Organisation des Nations Unies. Une telle dénonciation prend
+effet un an après la date de réception de la notification par le
+Secrétaire général.
+2. Une organisation régionale d’intégration économique
+cesse d’être Partie à la présente Convention lorsque tous ses États
+membres l’ont dénoncée.
+
+Article 71
+Dépositaire et langues
+1. Le Secrétaire général de l’Organisation des Nations
+Unies est le dépositaire de la présente Convention.
+2. L’original de la présente Convention, dont les textes
+anglais, arabe, chinois, espagnol, français et russe font également
+foi, sera déposé auprès du Secrétaire général de l’Organisation des
+Nations Unies.
+
+EN FOI DE QUOI, les plénipotentiaires soussignés, à ce
+dûment autorisés par leurs gouvernements respectifs, ont signé la
+présente Convention.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Page 46 -->

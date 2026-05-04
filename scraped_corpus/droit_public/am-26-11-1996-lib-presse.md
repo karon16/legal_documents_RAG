@@ -1,0 +1,419 @@
+---
+title: "26 novembre 1996. – ARRÊTÉ MINISTÉRIEL 04/MIP/020/96 portant mesures 
+d’application de la loi 96-002 du 22 juin 1996 fixant les modalités de 
+l’exercice de la liberté de la presse pour les entreprises de presse 
+audiovisuelle."
+source_url: "https://www.leganet.cd/Legislation/Droit%20administratif/Media/AM.26.11.1996.lib.presse.htm"
+domain: "droit_public"
+doc_type: "document"
+date_enacted: null
+was_ocr: false
+quality: "good"
+word_count: 2198
+scraped_at: "2026-04-29T02:57:29.381795+00:00"
+encoding_original: "iso-8859-1"
+---
+
+26 novembre 1996. – ARRÊTÉ MINISTÉRIEL 04/MIP/020/96 portant mesures d’application de la loi 96-002 du 22 juin 1996 fixant les modalités de l’exercice de la liberté de la presse pour les entreprises de presse audiovisuelle. mstheme msnavigation
+
+
+LEGANET.CD               LEGANET.CD            LEGANET.CD       LEGANET.CD      LEGANET.CD
+
+
+msnavigationmsnavigation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+msnavigation
+
+
+
+26 novembre 1996. – ARRÊTÉ MINISTÉRIEL 04/MIP/020/96 portant mesures d’application de la loi 96-002 du 22 juin 1996 fixant les modalités de l’exercice de la liberté de la presse pour les entreprises de presse audiovisuelle.
+
+
+
+(Ministère de l’Information et de la Presse)
+
+
+
+Art. 1er. — Il est ouvert au ministère de l’Information et de la Presse un registre de déclarations préalables à l’exploitation des stations de radiodiffusion et des chaînes de télévision privées.
+
+
+
+Art. 2. — La déclaration préalable dont l’imprimé est annexé au présent arrêté doit être conforme à l’article 57 de la loi 96-002 du 22 juin 1996 fixant les modalités de l’exercice de la liberté de la presse ainsi qu’au cahier des charges également joint au présent arrêté.
+
+
+
+Art. 3. — Tout message publicitaire doit porter avant sa diffusion le visa de la Commission nationale de contrôle et de visa de la publicité.
+
+
+
+Art. 4. — Les frais administratifs afférents à l’établissement du récépissé sont fixés par le ministère de l’Information et de la Presse.
+
+
+
+Art. 5. — Toute entreprise de presse audiovisuelle privée existant avant l’entrée en vigueur de la loi précitée dispose d’un délai de trois mois pour se conformer à l’article 2 du présent arrêté.
+
+
+
+Art. 6. — Toutes les dispositions antérieures contraires au présent arrêté sont abrogées.
+
+
+
+Art. 7. — Le secrétaire général du ministère de l’Information et de la Presse est chargé de l’exécution au présent arrêté qui entre en vigueur à la date de sa signature.
+
+
+
+Annexe
+
+
+
+1. De l'objet
+
+
+
+Le présent cahier des charges est un condensé des prescriptions et obligations qui s'appliquent aux entreprises publiques ou privées de radiodiffusion et de télévision opérant au Zaïre.
+
+
+
+2. Des modalités d'exploitation
+
+
+
+L'exploitation en matière de radiodiffusion sonore et de télévision est conditionnée par le dépôt obligatoire d'une déclaration auprès des organes compétents conformément aux articles 56 à 61 de la loi 96-022 du 22 juin 1996, fixant les modalités de l'exercice de la liberté de presse ainsi qu'aux mesures d'application de celle-ci.
+
+
+
+3. Des charges concernant la programmation et la diffusion
+
+
+
+• L'exploitant est responsable du contenu des émissions qu'il produit, programme et diffuse, conformément à l'intitulé de sa grille type des programmes.
+
+
+
+• L'ensemble des émissions programmées et diffusées doit viser l'information, l'éducation et la distraction de l'auditeur et du téléspectateur.
+
+
+
+• L'exploitant s'engage à éviter la diffusion des émissions, films ou documentaires dont le contenu s'avère contraire aux lois, à l'ordre public ou qui porte atteinte aux bonnes moeurs et/ou à la sécurité du pays.
+
+
+
+• Si l'impétrant, à l'obtention du récépissé, a pris option pour les informations à caractère politique, celles-ci doivent être traitées avec impartialité et objectivité.
+
+
+
+• Toute station de radiodiffusion et de télévision privée est libre de prendre en relais les émissions d'informations (journaux télévisés ou radiodiffusés, revues de presse) diffusées par les médias publics. Si elle le fait en différé, elle doit les reprendre intégralement.
+
+
+
+• La station de radiodiffusion et de télévision privée a l'obligation de réserver au moins 50 % des programmes de sa grille à la diffusion des émissions d'intérêt local. Elle doit posséder les droits de diffusion pour les 50 % des programmes restant.
+
+
+
+• L'impétrant s'engage à ne pas diffuser à travers sa chaîne de radio ou de télévision les émissions de propagande politique en faveur d'un quelconque courant de pensées ou d'un quelconque candidat conformément à la loi électorale et aux règlements intérieurs du Parlement en ce qui concerne la retransmission des débats parlementaires.
+
+
+
+• L'impétrant s'engage à préserver, en toutes circonstances, l'intérêt des jeunes, des adolescentes conformément à la Charte universelle des droits de l'enfant. À cet effet, il s'interdit de programmer ou de diffuser des filmes dits «rectangle blanc» ou «enfants non admis» avant 22 heures ; et de s'engager, le cas échéant, à porter la mention sur l'écran.
+
+
+
+• L'impétrant s'interdit de programmer les films de rediffusion avant 22 heures.
+
+
+
+• Les entreprises de communication audiovisuelle ont l'obligation de conserver au moins pendant 30 jours l'enregistrement de leurs émissions après diffusion.
+
+
+
+• Pour autant que la production nationale des films ou des émissions augmente, l'impétrant s'engage à programmer et à diffuser les films et émissions à concurrence d'un pourcentage à déterminer entre la station et l'autorité morale qui a le cinéma et la production audiovisuelle dans ses attributions.
+
+
+
+1) Récépissé de la déclaration préalable de publication: équivalent en NZ de 500 $ US
+
+
+
+2) Récépissé de la déclaration préalable d’exploitation des stations de radio et/ou télévision:
+
+
+
+a) pour les radios et télévisions à caractère non commercial: équivalent en NZ de 5.000 $ US
+
+
+
+b) pour les radios et télévisions à caractère commercial: équivalent en NZ de 10.000 $ US
+
+
+
+3) Création d’une agence de presse: équivalent en NZ de 500 $ US
+
+
+
+4) Agrément d’agences-conseil en publicité: équivalent en NZ de 500 $ US
+
+
+
+5) Caution bancaire minimum des agences-conseil en publicité candidates à l’agrément: équivalent en NZ de 25.000 $ US
+
+
+
+6) Autorisation de reportage photographique ou filmé: équivalent en NZ de 200 $ US
+
+
+
+4. Des charges concernant la coproduction et les droits d'auteurs
+
+
+
+• L'exploitant s'engage par la programmation et la diffusion à assurer la promotion de la production audiovisuelle (cinéma et autres) nationale et à encourager notamment la créativité et l'émulation dans la création et la production d'œuvres  locales.
+
+
+
+• Dans le cas d'un relais ou d'une retransmission d'émissions, d'une station de radiodiffusion et/ou de télévision étrangère, publique ou privée ; l'exploitant s'engage à ne prendre en compte que les films, reportages ou documentaires à caractère éducatif, sportif, religieux ou scientifique.
+
+
+
+• Les entreprises audiovisuelles dont la raison sociale est la réception et la transmission ou la retransmission des signes audiovisuels par satellite, sont responsables du contenu des programmes des chaînes étrangères propriétaires de ces programmes, pour lesquels elles ont acquis les droits par contrat, dont copie versée au dossier.
+
+
+
+Les droits d'auteurs protégés dans ces conditions, doivent être déclarés à la S.O.N.E.C.A. par le chef de l'entreprise.
+
+
+
+Les conflits de piratage ou de piraterie qui pourraient découler de ce mode de diffusion sont de la compétence des cours et tribunaux et ce, conformément aux textes en vigueur régissant la S.O.N.E.C.A., organisme chargé de la protection des oeuvres de l'esprit.
+
+
+
+• En cas de conflit, il appartiendra à la station de radiodiffusion et/ou de télévision ayant assuré le relais des signes audiovisuels par satellite de supporter la totalité des charges exigées et inhérentes aux droits d'auteurs envers la chaîne émettrice et les différents sponsors.
+
+
+
+5. Des charges concernant la publicité
+
+
+
+• Seule la nature de la station de radiodiffusion et/ou de télévision telle que découlant de la déclaration d'exploitation, déterminera si celle-ci peut diffuser un genre ou un autre de publicité.
+
+
+
+• Les règles régissant la durée, le taux à la minute, feront l'objet d'un contrat entre la station de radiodiffusion et/ou de télévision et le client ; sous réserve de la réglementation en vigueur dans ce domaine.
+
+
+
+• Dans tous les cas, les taux de publicité dans les stations privées ne peuvent être inférieurs à ceux appliqués dans les stations publiques de radiodiffusion et/ou de télévision. Par conséquent, il ne peut y avoir des publicités gratuites.
+
+
+
+• L'exploitant s'engage à ne diffuser que les spots et messages publicitaires revêtus du visa de la Commission nationale de contrôle et de visa de la publicité et à exécuter les décisions de ladite Commission.
+
+
+
+6. Des dispositions finales
+
+
+
+• L'exploitation de station de radiodiffusion et de chaîne de télévision est subordonnée à l'obtention du récépissé délivré par le ministère de l'Information et de la Presse.
+
+
+
+• L'impétrant s'engage à s'acquitter mensuellement des frais administratifs dus à la commission de contrôle de conformité conformément à l'arrêté ministériel y relatif.
+
+
+
+• La non-observance des prescrits du présent cahier des charges entraîne pour l'impétrant, les sanctions généralement prévues par la loi en matière des obligations contractuelles et le retrait de la licence d'exploitation et d'attribution des fréquences.
+
+
+
+7. Engagement
+
+
+
+Je soussigné... reconnais avoir lu les clauses contenues dans le présent cahier des charges et m'engage à les respecter scrupuleusement.
+
+
+
+
+
+
+
+28 février 1997. – ARRÊTÉ MINISTÉRIEL 04/MIP/006/ 97 portant création de la Commission de contrôle de conformité des stations de radiodiffusion et des chaînes de télévision publiques et privées. (Ministère de l’Information et de la Presse)
+
+
+
+Art. 1er. — Il est créé près le ministère de l’Information et de la Presse une Commission de contrôle de conformité des stations de radiodiffusion et des chaînes de télévision publiques et privées.
+
+
+
+Art. 2. — La Commission de contrôle de conformité des stations de radiodiffusion et des chaînes de télévision publiques et privées a pour mission:
+
+
+
+• de recevoir et d’examiner les déclarations des entreprises de presse du secteur audiovisuel;
+
+
+
+• d’assurer de manière permanente le contrôle de conformité des prescrits légaux et réglementaires;
+
+
+
+• de proposer au ministre de tutelle, en cas de la non-observance des prescrits légaux et réglementaires, des sanctions conformément aux articles 83, 85 et 87 de la loi 96-002 du 22 juin 1996.
+
+
+
+Art. 3. — La Commission de contrôle de conformité est composée de:
+
+
+
+• secrétaire général du ministère de l’Information et de la Presse, qui en est le président;
+
+
+
+• conseiller chargé des questions juridiques, rapporteur;
+
+
+
+• conseiller chargé de l’audiovisuel, membre;
+
+
+
+• conseiller chargé de la presse, membre;
+
+
+
+• conseiller technique, membre;
+
+
+
+• directeur de l’audiovisuel du ministère, secrétaire.
+
+
+
+Art. 4. — Les entreprises du secteur concerné versent mensuellement à la Commission 10 % des recettes publicitaires réalisées à titre des frais administratifs, lesquels relèvent du budget pour ordre.
+
+
+
+Art. 5. — Le secrétaire général du ministère de l’Information et de la Presse est chargé de l’exécution du présent arrêté qui entre en vigueur à la date de sa signature.
+
+
+
+
+
+
+
+3 mai 1997. – ARRÊTÉ MINISTÉRIEL 04/MIP/008/97 portant fixation des frais administratifs pour l’autorisation de reportage photographique ou filmé. (Ministère de l’Information et de la Presse)
+
+
+
+Art. 1er. — L’établissement de l’autorisation de reportage photographique ou filmé est soumis au paiement des frais administratifs fixés à l’équivalent en nouveau zaïre de 50 $ US.
+
+
+
+Art. 2. — Toutes les dispositions contraires au présent arrêté sont abrogées.
+
+
+
+Art. 3. — Le secrétaire général du ministère de l’Information et de la Presse est chargé de l’exécution du présent arrêté qui entre en vigueur à la date de sa signature.
+
+
+
+
+
+
+
+20 août 2002. – ARRÊTÉ MINISTÉRIEL 04/MCP/011/ 2002 modifiant et complétant l’arrêté ministériel 04/MIP/020/96 du 26 novembre 1996 portant mesures d’application de la loi 96-002 du 22 juin 1996 fixant les modalités de l’exercice de la liberté de la presse dans la communication audiovisuelle. (Ministère de la Communication et Presse)
+
+
+
+Art. 1er. — Aucune station de radiodiffusion ou de télévision ne peut diffuser un programme ou une émission dont la nature ne découle pas de sa déclaration d’exploitation.
+
+
+
+Art. 2. —Tout message publicitaire doit porter, avant sa diffusion, le visa de la commission nationale de contrôle et de visa de la publicité.
+
+
+
+Tous les annonceurs disposent d’un délai maximum de 30 jours pour s’y conformer.
+
+
+
+Art. 3. — La diffusion des émissions, films ou documentaires dont le contenu est contraire aux lois, à l’ordre public ou qui porte atteinte aux bonnes mœurs et ou à la sécurité du pays est interdite.
+
+
+
+Art. 4. — Est interdite sur toute l’étendue de la République, la diffusion et la production des films, images, documentaires, à caractère pornographique ou, de manière générale, la livraison au public, sous n’importe quel support technique, de tout ce qui constitue une expression ou une reproduction de l’immoralité, de l’impudicité et de l’obscénité.
+
+
+
+Art. 5. — Sans préjudice des dispositions de l’article 4, la diffusion des films violents, des films d’horreur ou généralement des films classés comme «enfants non admis» n’est autorisée qu’après 22 heures, avec obligation d’en faire mention à l’écran.
+
+
+
+Art. 6. — L’octroi des récépissés d’exploitation des stations de radio et/ou de chaînes de télévision est subordonné à la présentation par les impétrants, des infrastructures et équipements attestant de leur aptitude à prester des services de communication audiovisuelle selon les normes de production et de diffusion moyenne, au regard de l’évolution technologique dans ce domaine.
+
+
+
+La commission de contrôle de conformité fixe le seuil minimal de définition d’image et de son.
+
+
+
+Art. 7. — Outre les dispositions de droit commun, les violations du présent arrêté seront sanctionnées selon leur gravité, comme suit:
+
+
+
+• la saisie par l’autorité judiciaire compétente des documents, films ou vidéocassettes incriminés;
+
+
+
+• l’interdiction d’une ou de plusieurs émissions;
+
+
+
+• la suspension des activités de la station de radio ou de la télévision pour une période ne dépassant pas trois mois;
+
+
+
+• le retrait ou l’annulation du récépissé d’exploitation.
+
+
+
+Art. 8 . -
+
+
+
+Art. 9. —Le secrétaire général du ministère de la Communication et Presse est chargé de l’exécution du présent arrêté qui entre en vigueur à la date de sa signature.
+
+msnavigation
+msnavigationmsnavigation
+
+
+Ce site est en construction - pour toutes informations; remarques
+
+Les textes ne font que refléter les textes en possession des associations qui n'engagent pas leur responsabilité.
+
+
+
+
+
+
+
+
+msnavigation

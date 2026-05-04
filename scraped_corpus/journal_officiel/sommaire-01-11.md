@@ -1,0 +1,54 @@
+---
+title: "JO1er novembre 2021"
+source_url: "https://www.leganet.cd/Legislation/JO/2021/sommaire.01.11.html"
+domain: "journal_officiel"
+doc_type: "journal_officiel"
+date_enacted: null
+was_ocr: false
+quality: "low"
+word_count: 47
+scraped_at: "2026-04-29T03:17:52.210845+00:00"
+encoding_original: "iso-8859-1"
+---
+
+html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd" JO1er novembre 2021 mstheme msnavigation
+
+msnavigationmsnavigation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+msnavigation
+
+JO1er novembre 2021
+
+msnavigation
+msnavigationmsnavigation
+
+
+Ce site est en construction - pour toutes informations; remarques
+
+Les textes ne font que refléter les textes en possession des associations qui n'engagent pas leur responsabilité.
+
+
+
+
+
+
+
+
+msnavigation

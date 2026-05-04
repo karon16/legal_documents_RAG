@@ -1,0 +1,129 @@
+---
+title: "Circulaire n° 001/CAB/MIN/FINANCES/04 du 31 janvier 2004 précisant 
+l’application aux opérations de transport aérien des dispositions de l’article 
+14, 3°, litera c, de l’Ordonnance-Loi n° 69-058 du 05 décembre 1969 relative à 
+l’impôt sur le CA"
+source_url: "https://www.leganet.cd/Legislation/Dfiscal/Circulaire001.31.01.04.art.14.htm"
+domain: "droit_fiscal"
+doc_type: "document"
+date_enacted: null
+was_ocr: false
+quality: "good"
+word_count: 560
+scraped_at: "2026-04-29T01:57:43.750508+00:00"
+encoding_original: "iso-8859-1"
+---
+
+Circulaire n° 001/CAB/MIN/FINANCES/04 du 31 janvier 2004 précisant l’application aux opérations de transport aérien des dispositions de l’article 14, 3°, litera c, de l’Ordonnance-Loi n° 69-058 du 05 décembre 1969 relative à l’impôt sur le CA mstheme msnavigation
+
+
+LEGANET.CD               LEGANET.CD            LEGANET.CD       LEGANET.CD      LEGANET.CD
+
+
+msnavigationmsnavigation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+msnavigation
+
+Ministère des Finances
+
+
+
+Circulaire n° 001/CAB/MIN/FINANCES/04 du 31 janvier 2004 précisant l’application aux opérations de transport aérien des dispositions de l’article 14, 3°, litera c, de l’Ordonnance-Loi n° 69-058 du 05 décembre 1969 relative à l’impôt sur le chiffre d’affaires
+
+
+
+
+
+
+
+La présente Circulaire a pour but de préciser l’application, aux opérations de transport aérien, des dispositions de l’article 14, 3°, litera c, de l’Ordonnance-Loi n° 69-058 du 05 décembre 1969, telle que modifiée et complétée à ce jour , relative  à l’impôt sur le chiffre d’affaires.
+
+
+
+Il ressort, en effet, de ces dispositions que les opérations de transport, à l’exception des transports  de personnes par la voie aérienne ou maritime lorsque les billets sont émis en monnaie nationale, sont exemptées de l’impôt sur le chiffre d’affaires à l ‘intérieur.
+
+
+
+Précisant d’une manière générale ce qu’il faut entendre par « opérations de transports », la Circulaire départementale n° 2475 du 26 décembre 1984 a indiqué qu’il s’agit non seulement du transport lui-même, mais également des opérations connexes, accessoires et indissociables de manutention.
+
+
+
+Face aux impératifs spécifiques de la navigation aérienne et compte tenu des tergiversations constatées dans l’application des dispositions de l’article 14, 3°, litera c, il paraît utile de clarifier de façon particulière la portée de celles-ci au regard de ladite Circulaire en ce qui concerne les opérations  de transport aérien.
+
+
+
+A cet effet, il convient de tenir compte de la réglementation internationale dont les instruments juridiques sont ratifiés par la République Démocratique du Congo, membre de l’Organisation  de l’Aviation Civile Internationale (OACI), à savoir la Convention de Chicago du 7 décembre 1944 relative à l’aviation civile internationale et la Convention de Varsovie du 12 octobre 1929 sur l’unification de certaines règles relatives à la responsabilité du transporteur aérien international.
+
+
+
+De ce qui précède, il importe de considérer comme faisant partie des opérations de transport aérien exemptées de l’impôt sur le chiffre d’affaires à l’intérieur, toutes les prestations connexes, accessoires et indissociables à ce mode de transport dont celles reprises ci-dessous :
+
+
+
+1. les opérations techniques afférentes à l’arrivée, au stationnement et au décollage des aéronefs, à l’usage des dispositifs d’assistance à la navigation aérienne, à la mise en œuvre des moyens mécaniques, électriques ou pneumatiques pour la mise en route des aéronefs ;
+
+
+
+2. les opérations  de nettoyage, d’entretien et de réparation des aéronefs, du service de sûreté, de sécurité, de lutte conte l’incendie et du sauvetage ;
+
+
+
+3. les opérations d’embarquement et de débarquement des passagers, du chargement et du déchargement   des aéronefs, d’assistance aux passagers et de garde des marchandises par les transporteurs ;
+
+
+
+
+
+
+
+4. les opérations  de transport de l’équipage et des passagers sur l’aire des aéroports.
+
+
+
+
+
+
+
+Les dispositions de l’article 14, 3°, litera c, susvisées, telles que précisées par la circulaire départementale n° 2475 du 26 décembre 1984 doivent donc être comprises à compter de leur entrée en vigueur.
+
+
+
+Fait à Kinshasa, le 31 janvier 2004
+
+
+
+Dr André Philippe Futa
+
+msnavigation
+msnavigationmsnavigation
+
+
+Ce site est en construction - pour toutes informations; remarques
+
+Les textes ne font que refléter les textes en possession des associations qui n'engagent pas leur responsabilité.
+
+
+
+
+
+
+
+
+msnavigation
