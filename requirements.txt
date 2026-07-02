@@ -21,7 +21,8 @@ fpdf2==2.7.7
 # NLP & AI
 sentence-transformers==2.3.1
 anthropic==0.13.0
-torch --index-url https://download.pytorch.org/whl/cpu
+--find-links https://download.pytorch.org/whl/cpu
+torch
 
 # Utils
 pydantic==2.5.3
@@ -35,4 +36,3 @@ Pillow
 psycopg2-binary
 python-slugify
 python-dateutil
-
