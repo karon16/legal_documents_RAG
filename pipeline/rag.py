@@ -55,6 +55,32 @@ Tes instructions strictes sont les suivantes :
 """
 
 
+HYDE_PROMPT = """Tu es un expert en droit congolais. 
+Rédige un extrait formel et hypothétique d'un texte de loi, de jurisprudence ou de doctrine qui répond directement à la question suivante. 
+Ne donne pas d'explications, rédige uniquement l'extrait tel qu'il apparaîtrait dans un document officiel congolais.
+
+Question : {question}
+"""
+
+
+def generate_hyde_document(question: str) -> Optional[str]:
+    """
+    Generates a hypothetical legal document answering the user's question.
+    Used for HyDE (Hypothetical Document Embeddings) to improve semantic search.
+    """
+    prompt = HYDE_PROMPT.format(question=question)
+    try:
+        response = ollama.chat(
+            model=MODEL,
+            messages=[{"role": "user", "content": prompt}],
+            options={"num_predict": 300}  # Keep it short
+        )
+        return response['message']['content']
+    except Exception as e:
+        logger.error(f"HyDE generation failed: {e}")
+        return None
+
+
 def build_context(chunks: list[RetrievedChunk]) -> str:
     if not chunks:
         return "Aucun extrait pertinent n'a été trouvé."
@@ -185,10 +211,14 @@ def ask(
     register_vector(conn)
     t0 = time.time()
 
+    # STEP 1.5 - HyDE (Hypothetical Document Embeddings)
+    hyde_document = generate_hyde_document(question)
+
     # STEP 2 — Retrieve
     chunks = retrieve(
         conn=conn, question=question, top_k=top_k,
-        domain_filter=domain_filter, doc_type_filter=doc_type_filter
+        domain_filter=domain_filter, doc_type_filter=doc_type_filter,
+        hyde_document=hyde_document
     )
     retrieval_ms = int((time.time() - t0) * 1000)
 

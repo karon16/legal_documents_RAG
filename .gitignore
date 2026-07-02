@@ -27,6 +27,7 @@ postgres_data/
 ./scraped_corpus
 ./scraped_corpus/*
 ./scraped_corpus/*/*
+./scraped_corpus/*/*/*
 
 ./output
 
