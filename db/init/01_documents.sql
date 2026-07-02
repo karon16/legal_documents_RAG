@@ -19,7 +19,7 @@ CREATE TABLE IF NOT EXISTS legal_documents (
   )),
   doc_type        VARCHAR(30) CHECK (doc_type IN (
     'loi', 'decret', 'arrete', 'ordonnance', 'jurisprudence', 
-    'doctrine', 'modele', 'document'
+    'doctrine', 'modele', 'document', 'journal_officiel'
   )),
   date_enacted    DATE,
   file_path       TEXT,

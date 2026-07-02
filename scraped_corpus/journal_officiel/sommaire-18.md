@@ -7,7 +7,7 @@ date_enacted: null
 was_ocr: false
 quality: "good"
 word_count: 1935
-scraped_at: "2026-04-29T04:13:54.416224+00:00"
+scraped_at: "2026-06-28T07:50:58.944115+00:00"
 encoding_original: "iso-8859-1"
 ---
 
