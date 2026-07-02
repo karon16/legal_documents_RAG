@@ -36,3 +36,6 @@ psycopg2-binary
 python-slugify
 python-dateutil
 
+#rag module
+ollama
+
