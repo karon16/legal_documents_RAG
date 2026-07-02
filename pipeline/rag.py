@@ -38,7 +38,7 @@ class RAGResponse:
     retrieval_ms:    int
     generation_ms:   int
     had_citations:   bool
-    was_grounded:    bool
+    was_grounded:    bool = False
     qa_log_id:       Optional[str] = None
 
 
@@ -206,9 +206,58 @@ def ask(
             qa_log_id=None
         )
 
+    question_hash = hashlib.sha256(question.strip().lower().encode('utf-8')).hexdigest()
+
     # STEP 1 — Open DB connection
     conn = psycopg2.connect(DB_CONN)
     register_vector(conn)
+
+    # STEP 1.2 - Check Cache
+    if log_to_db:
+        with conn.cursor() as cur:
+            cur.execute("""
+                SELECT id, answer, sources, retrieval_count, retrieval_ms, generation_ms, had_citations 
+                FROM qa_logs 
+                WHERE question_hash = %s 
+                ORDER BY created_at DESC LIMIT 1
+            """, (question_hash,))
+            row = cur.fetchone()
+            
+            if row:
+                logger.info(f"Cache hit for question: {question}")
+                
+                # Log a new entry to track the cache hit
+                cur.execute("""
+                    INSERT INTO qa_logs (
+                        question, question_hash, answer, sources,
+                        domain_filter, retrieval_count, was_cache_hit,
+                        retrieval_ms, generation_ms, had_citations, model_used
+                    ) VALUES (
+                        %s, %s, %s, %s,
+                        %s, %s, %s,
+                        %s, %s, %s, %s
+                    ) RETURNING id
+                """, (
+                    question, question_hash, row[1], json.dumps(row[2]),
+                    domain_filter, row[3], True,
+                    0, 0, row[6], MODEL
+                ))
+                new_log_id = cur.fetchone()[0]
+                conn.commit()
+                conn.close()
+                
+                return RAGResponse(
+                    question=question,
+                    answer=row[1],
+                    sources=row[2],
+                    retrieved_count=row[3],
+                    retrieval_ms=0,
+                    generation_ms=0,
+                    had_citations=row[6],
+                    was_grounded=True,
+                    qa_log_id=str(new_log_id)
+                )
+
     t0 = time.time()
 
     # STEP 1.5 - HyDE (Hypothetical Document Embeddings)
