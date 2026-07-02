@@ -28,7 +28,7 @@ app = FastAPI(
     lifespan    = lifespan,
 )
 
-_origins_env = os.getenv("ALLOWED_ORIGINS", "http://localhost:3000")
+_origins_env = os.getenv("ALLOWED_ORIGINS", "*")
 origins = [o.strip() for o in _origins_env.split(",")]
 
 app.add_middleware(

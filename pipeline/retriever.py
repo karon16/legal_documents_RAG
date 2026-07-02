@@ -123,8 +123,10 @@ def bm25_search(
     Handles cases where the query produces no tsquery tokens gracefully.
     """
     # Convert natural language query into an OR query for BM25
-    # e.g. "Mon bailleur peut-il" -> "Mon OR bailleur OR peut-il"
-    or_query = " OR ".join(query.split())
+    # e.g. "Mon bailleur peut-il" -> "Mon OR bailleur OR peut il"
+    # Replace hyphens with spaces to prevent websearch_to_tsquery from treating them as NOT operators
+    safe_query = query.replace('-', ' ')
+    or_query = " OR ".join(safe_query.split())
 
     # websearch_to_tsquery is safer than to_tsquery — it never throws on
     # natural language input (no need to escape special characters)
@@ -280,8 +282,9 @@ def retrieve(
     # Fetch more candidates than top_k so RRF has enough to merge
     candidates = top_k * CANDIDATE_MULTIPLIER
 
-    # Embed the hypothetical document if provided, otherwise embed the question
-    text_to_embed = hyde_document if hyde_document else question
+    # Embed the hypothetical document concatenated with the original question
+    # This prevents hallucinated HyDE documents from completely derailing semantic search.
+    text_to_embed = f"Question: {question}\n\nExtrait hypothétique: {hyde_document}" if hyde_document else question
     query_embedding = embed_query(text_to_embed)
 
     # Run both retrievals

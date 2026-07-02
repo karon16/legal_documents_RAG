@@ -45,6 +45,9 @@ Tes instructions strictes sont les suivantes :
 2. Tu dois toujours citer l'article exact et le document source. Exemple de format : "Selon l'Article 5 du Décret du 24 avril 2009..."
 3. Si la réponse ne se trouve pas dans les extraits, dis exactement : "Cette information ne figure pas dans les textes disponibles sur LEGANET.CD." N'essaie jamais de répondre quand même.
 4. Ta réponse doit être en français clair et accessible. Évite le jargon juridique complexe car l'utilisateur peut être un citoyen ordinaire.
+5. Fournis des reponses longues et detaillés
+6. Tu peux coneiller l'utilisateur en suggerant des questions suivies pour completer sa recherche
+7. Baser sur les textes donne des conseils juridiques
 """
 
 
@@ -353,3 +356,152 @@ def ask(
         was_grounded=True,
         qa_log_id=qa_id,
     )
+def ask_stream(
+    question:        str,
+    domain_filters:   Optional[list[str]] = None,
+    doc_type_filters: Optional[list[str]] = None,
+    top_k:           int = TOP_K_CHUNKS,
+    log_to_db:       bool = True,
+):
+    import json
+    # STEP 0 — Input validation
+    if not question or not question.strip():
+        yield json.dumps({"type": "token", "content": "Veuillez poser une question."}) + "\n"
+        yield json.dumps({"type": "done"}) + "\n"
+        return
+
+    question_hash = hashlib.sha256(question.strip().lower().encode('utf-8')).hexdigest()
+
+    # STEP 1 — Open DB connection
+    conn = psycopg2.connect(DB_CONN)
+    register_vector(conn)
+
+    # STEP 1.2 - Check Cache (Skip for now or yield instantly)
+    if log_to_db:
+        with conn.cursor() as cur:
+            cur.execute("""
+                SELECT id, answer, sources, retrieval_count, retrieval_ms, generation_ms, had_citations 
+                FROM qa_logs 
+                WHERE question_hash = %s 
+                ORDER BY created_at DESC LIMIT 1
+            """, (question_hash,))
+            row = cur.fetchone()
+            if row:
+                logger.info(f"Cache hit for question: {question}")
+                cur.execute("""
+                    INSERT INTO qa_logs (
+                        question, question_hash, answer, sources,
+                        domain_filter, retrieval_count, was_cache_hit,
+                        retrieval_ms, generation_ms, had_citations, model_used
+                    ) VALUES (
+                        %s, %s, %s, %s,
+                        %s, %s, %s,
+                        %s, %s, %s, %s
+                    ) RETURNING id
+                """, (
+                    question, question_hash, row[1], json.dumps(row[2]),
+                    ",".join(domain_filters) if domain_filters else None, row[3], True,
+                    0, 0, row[6], MODEL
+                ))
+                new_log_id = cur.fetchone()[0]
+                conn.commit()
+                conn.close()
+                
+                yield json.dumps({"type": "sources", "data": row[2]}) + "\n"
+                yield json.dumps({"type": "token", "content": row[1]}) + "\n"
+                yield json.dumps({"type": "done", "qa_log_id": str(new_log_id)}) + "\n"
+                return
+
+    t0 = time.time()
+
+    # STEP 1.5 - HyDE (Hypothetical Document Embeddings)
+    hyde_document = generate_hyde_document(question)
+
+    # STEP 2 — Retrieve
+    chunks = retrieve(
+        conn            = conn,
+        question        = question,
+        top_k           = top_k,
+        domain_filters   = domain_filters,
+        doc_type_filters = doc_type_filters,
+        hyde_document   = hyde_document,
+    )
+    retrieval_ms = int((time.time() - t0) * 1000)
+
+    # Build sources list
+    sources = []
+    for chunk in chunks:
+        sources.append({
+            "article_number": chunk.article_number,
+            "document_title": chunk.document_title,
+            "domain": chunk.domain,
+            "doc_type": chunk.doc_type,
+            "date_enacted": chunk.date_enacted,
+            "source_url": chunk.source_url,
+            "rrf_score": round(chunk.rrf_score, 4) if chunk.rrf_score else None,
+            "excerpt": chunk.text[:300]
+        })
+
+    # Yield sources immediately
+    yield json.dumps({"type": "sources", "data": sources}) + "\n"
+
+    # STEP 3 — Handle empty retrieval
+    if not chunks:
+        no_result_answer = (
+            "Aucun texte de loi pertinent n'a été trouvé dans la base "
+            "de données LEGANET.CD pour cette question. "
+            "Essayez de reformuler votre question avec des termes "
+            "juridiques plus précis, ou consultez directement "
+            "leganet.cd."
+        )
+        conn.close()
+        yield json.dumps({"type": "token", "content": no_result_answer}) + "\n"
+        yield json.dumps({"type": "done", "qa_log_id": None}) + "\n"
+        return
+
+    # STEP 4 — Generate
+    messages = build_messages(question, chunks)
+    ollama_messages = [{"role": "system", "content": SYSTEM_PROMPT}] + messages
+    t1 = time.time()
+
+    answer_parts = []
+    try:
+        stream = ollama.chat(
+            model=MODEL,
+            messages=ollama_messages,
+            stream=True,
+            options={
+                "num_predict": MAX_TOKENS
+            }
+        )
+        for chunk in stream:
+            token = chunk['message']['content']
+            answer_parts.append(token)
+            yield json.dumps({"type": "token", "content": token}) + "\n"
+    except Exception as e:
+        logger.error(f"Ollama API Error: {e}")
+        error_msg = (
+            "\nUne erreur technique s'est produite avec le modèle local. "
+            "Veuillez réessayer dans quelques instants."
+        )
+        answer_parts.append(error_msg)
+        yield json.dumps({"type": "token", "content": error_msg}) + "\n"
+
+    answer = "".join(answer_parts)
+    generation_ms = int((time.time() - t1) * 1000)
+
+    # STEP 5 — Validate
+    validation = validate_answer(answer)
+    had_citations = validation["has_citation"]
+
+    # STEP 7 — Log to DB
+    if log_to_db:
+        qa_id = log_qa(conn, question, answer, chunks,
+                       retrieval_ms, generation_ms,
+                       had_citations, domain_filters)
+    else:
+        qa_id = None
+
+    conn.close()
+    
+    yield json.dumps({"type": "done", "qa_log_id": qa_id}) + "\n"
