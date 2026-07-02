@@ -7,7 +7,6 @@ from pipeline.rag import (
     build_messages,
     validate_answer,
     ask,
-    DISCLAIMER,
 )
 
 @pytest.fixture
@@ -66,31 +65,21 @@ def test_build_messages_structure(SAMPLE_CHUNKS):
 def test_validate_answer_valid():
     answer = (
         "Selon l'Article 5 du Décret du 24 avril 2009, "
-        "la société commerciale doit être enregistrée. "
-        "Pour votre situation spécifique, "
-        "consultez un avocat ou un magistrat."
+        "la société commerciale doit être enregistrée."
     )
     result = validate_answer(answer)
-    assert result["has_disclaimer"] is True
     assert result["has_citation"] is True
     assert result["is_valid"] is True
 
-def test_validate_answer_missing_disclaimer():
-    answer = "Selon l'Article 5, la société doit être enregistrée."
-    result = validate_answer(answer)
-    assert result["has_disclaimer"] is False
-    assert result["is_valid"] is False
+
 
 def test_validate_answer_admits_ignorance():
     answer = (
         "Cette information ne figure pas dans les textes "
-        "disponibles sur LEGANET.CD. "
-        "Pour votre situation spécifique, "
-        "consultez un avocat ou un magistrat."
+        "disponibles sur LEGANET.CD."
     )
     result = validate_answer(answer)
     assert result["admits_ignorance"] is True
-    assert result["has_disclaimer"] is True
     assert result["is_valid"] is True
 
 def test_validate_answer_too_short():
@@ -111,9 +100,7 @@ def test_ask_returns_rag_response(
         'message': {
             'content': (
                 "Selon l'Article 5 du Décret du 24 avril 2009, "
-                "la société doit être enregistrée. "
-                "Pour votre situation spécifique, "
-                "consultez un avocat ou un magistrat."
+                "la société doit être enregistrée."
             )
         }
     }
@@ -126,7 +113,6 @@ def test_ask_returns_rag_response(
     assert result.was_grounded is True
     assert result.retrieved_count == 2
     assert result.had_citations is True
-    assert DISCLAIMER in result.answer or "magistrat" in result.answer
     assert len(result.sources) == 2
 
 @patch("pipeline.rag.retrieve")
@@ -140,7 +126,6 @@ def test_ask_empty_retrieval(mock_register, mock_connect, mock_retrieve):
     assert result.was_grounded is False
     assert result.retrieved_count == 0
     assert "LEGANET.CD" in result.answer
-    assert "magistrat" in result.answer or "avocat" in result.answer
 
 def test_ask_empty_question():
     result = ask("", log_to_db=False)

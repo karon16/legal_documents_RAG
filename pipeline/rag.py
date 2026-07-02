@@ -17,11 +17,6 @@ MODEL        = "llama3.1"  # A 8B model perfect for Mac M4 with 16GB RAM
 MAX_TOKENS   = 1024
 TOP_K_CHUNKS = 5
 
-DISCLAIMER = (
-    "Pour votre situation spécifique, "
-    "consultez un avocat ou un magistrat."
-)
-
 import os
 from dotenv import load_dotenv
 
@@ -49,9 +44,7 @@ Tes instructions strictes sont les suivantes :
 1. Tu dois répondre UNIQUEMENT à partir des extraits de loi fournis. N'utilise jamais tes connaissances générales.
 2. Tu dois toujours citer l'article exact et le document source. Exemple de format : "Selon l'Article 5 du Décret du 24 avril 2009..."
 3. Si la réponse ne se trouve pas dans les extraits, dis exactement : "Cette information ne figure pas dans les textes disponibles sur LEGANET.CD." N'essaie jamais de répondre quand même.
-4. Tu ne dois jamais fournir de conseils juridiques personnalisés. Ne prédis jamais l'issue d'un procès. Ne conseille jamais sur une stratégie juridique spécifique.
-5. Tu dois toujours terminer ta réponse par l'avertissement suivant : "Pour votre situation spécifique, consultez un avocat ou un magistrat."
-6. Ta réponse doit être en français clair et accessible. Évite le jargon juridique complexe car l'utilisateur peut être un citoyen ordinaire.
+4. Ta réponse doit être en français clair et accessible. Évite le jargon juridique complexe car l'utilisateur peut être un citoyen ordinaire.
 """
 
 
@@ -116,8 +109,6 @@ def build_messages(question: str, chunks: list[RetrievedChunk]) -> list[dict]:
 def validate_answer(answer: str) -> dict:
     ans_lower = answer.lower()
     
-    has_disclaimer = "consultez un avocat" in ans_lower or "magistrat" in ans_lower
-    
     citation_keywords = ["article", "source", "décret", "decret", "loi", "ordonnance"]
     has_citation = any(keyword in ans_lower for keyword in citation_keywords)
     
@@ -126,10 +117,9 @@ def validate_answer(answer: str) -> dict:
     ignorance_keywords = ["ne figure pas", "pas dans les textes", "pas disponible", "non disponible"]
     admits_ignorance = any(keyword in ans_lower for keyword in ignorance_keywords)
     
-    is_valid = has_disclaimer and (has_citation or admits_ignorance)
+    is_valid = has_citation or admits_ignorance
     
     return {
-        "has_disclaimer": has_disclaimer,
         "has_citation": has_citation,
         "not_too_short": not_too_short,
         "admits_ignorance": admits_ignorance,
@@ -145,9 +135,10 @@ def log_qa(
     retrieval_ms:   int,
     generation_ms:  int,
     had_citations:  bool,
-    domain_filter:  Optional[str] = None,
+    domain_filters: Optional[list[str]] = None,
 ) -> Optional[str]:
     try:
+        domain_str = ",".join(domain_filters) if domain_filters else None
         question_hash = hashlib.md5(question.strip().lower().encode()).hexdigest()
         
         sources_list = []
@@ -177,7 +168,7 @@ def log_qa(
                 ) RETURNING id
             """, (
                 question, question_hash, answer, sources_json,
-                domain_filter, len(chunks),
+                domain_str, len(chunks),
                 retrieval_ms, generation_ms, had_citations, MODEL
             ))
             log_id = cur.fetchone()[0]
@@ -191,8 +182,8 @@ def log_qa(
 
 def ask(
     question:        str,
-    domain_filter:   Optional[str] = None,
-    doc_type_filter: Optional[str] = None,
+    domain_filters:   Optional[list[str]] = None,
+    doc_type_filters: Optional[list[str]] = None,
     top_k:           int = TOP_K_CHUNKS,
     log_to_db:       bool = True,
 ) -> RAGResponse:
@@ -239,7 +230,7 @@ def ask(
                     ) RETURNING id
                 """, (
                     question, question_hash, row[1], json.dumps(row[2]),
-                    domain_filter, row[3], True,
+                    ",".join(domain_filters) if domain_filters else None, row[3], True,
                     0, 0, row[6], MODEL
                 ))
                 new_log_id = cur.fetchone()[0]
@@ -265,9 +256,12 @@ def ask(
 
     # STEP 2 — Retrieve
     chunks = retrieve(
-        conn=conn, question=question, top_k=top_k,
-        domain_filter=domain_filter, doc_type_filter=doc_type_filter,
-        hyde_document=hyde_document
+        conn            = conn,
+        question        = question,
+        top_k           = top_k,
+        domain_filters   = domain_filters,
+        doc_type_filters = doc_type_filters,
+        hyde_document   = hyde_document,
     )
     retrieval_ms = int((time.time() - t0) * 1000)
 
@@ -278,7 +272,7 @@ def ask(
             "de données LEGANET.CD pour cette question. "
             "Essayez de reformuler votre question avec des termes "
             "juridiques plus précis, ou consultez directement "
-            f"leganet.cd. {DISCLAIMER}"
+            "leganet.cd."
         )
         conn.close()
         return RAGResponse(
@@ -308,8 +302,7 @@ def ask(
         logger.error(f"Ollama API Error: {e}")
         answer = (
             "Une erreur technique s'est produite avec le modèle local. "
-            "Veuillez réessayer dans quelques instants. "
-            f"{DISCLAIMER}"
+            "Veuillez réessayer dans quelques instants."
         )
 
     generation_ms = int((time.time() - t1) * 1000)
@@ -317,10 +310,6 @@ def ask(
     # STEP 5 — Validate
     validation = validate_answer(answer)
     had_citations = validation["has_citation"]
-
-    if not validation["has_disclaimer"]:
-        answer += f"\n\n{DISCLAIMER}"
-        logger.warning("Disclaimer missing from answer — appended")
 
     # STEP 6 — Build sources list
     sources = []
@@ -340,7 +329,7 @@ def ask(
     if log_to_db:
         qa_id = log_qa(conn, question, answer, chunks,
                        retrieval_ms, generation_ms,
-                       had_citations, domain_filter)
+                       had_citations, domain_filters)
     else:
         qa_id = None
 

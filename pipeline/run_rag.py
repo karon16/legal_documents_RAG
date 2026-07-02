@@ -33,10 +33,10 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     result = ask(
-        question        = args.question,
-        domain_filter   = args.domain,
-        doc_type_filter = args.doc_type,
-        log_to_db       = not args.no_log,
+        question         = args.question,
+        domain_filters   = [args.domain] if args.domain else None,
+        doc_type_filters = [args.doc_type] if args.doc_type else None,
+        log_to_db        = not args.no_log,
     )
 
     print("\n" + "=" * 65)

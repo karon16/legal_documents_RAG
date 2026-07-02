@@ -18,7 +18,7 @@ CREATE TABLE IF NOT EXISTS qa_logs (
   question_hash    VARCHAR(64) NOT NULL,
   answer           TEXT,
   sources          JSONB NOT NULL DEFAULT '[]',
-  domain_filter    VARCHAR(50),
+  domain_filter    TEXT,
   retrieval_count  INTEGER,
   was_cache_hit    BOOLEAN NOT NULL DEFAULT FALSE,
   retrieval_ms     INTEGER,
